@@ -1,0 +1,139 @@
+{
+   "OpenDyslexic": {
+      "message": "Tuklasin ang OpenDyslexic"
+   },
+   "appDescription": {
+      "description": "I-format ang mga pahina gamit ang OpenDyslexic font at mababang tulong ng kaibahan",
+      "message": "I-format ang mga pahina gamit ang OpenDyslexic font at mababang tulong ng kaibahan"
+   },
+   "appName": {
+      "description": "I-format ang mga pahina gamit ang OpenDyslexic font at mababang tulong ng kaibahan.",
+      "message": "OpenDyslexic para sa Chrome"
+   },
+   "appNameEdge": {
+      "description": "Format pages using the OpenDyslexic font and low contrast help.",
+      "message": "OpenDyslexic for Edge"
+   },
+   "appNameFirefox": {
+      "description": "Format pages using the OpenDyslexic font and low contrast help.",
+      "message": "OpenDyslexic for Firefox"
+   },
+   "appTitle": {
+      "description": "I-format ang mga pahina gamit ang OpenDyslexic font at mababang tulong ng kaibahan.",
+      "message": "OpenDyslexic"
+   },
+   "backgroundColorLabel": {
+      "message": "Background"
+   },
+   "backgroundColorTooltip": {
+      "message": "Baguhin ang kulay ng background."
+   },
+   "codeSetting": {
+      "message": "Source Code"
+   },
+   "comingSoon": {
+      "message": "Malapit na"
+   },
+   "enableFontLabel": {
+      "message": "Paganahin"
+   },
+   "featureTint": {
+      "message": "Paganahin ang Overlay"
+   },
+   "firefox": {
+      "message": "Bersyon ng Firefox"
+   },
+   "firefoxText": {
+      "message": "Gumamit ng Firefox? I-download ito ngayon."
+   },
+   "followAbbie": {
+      "message": "Suportahan ang OpenDyslexic"
+   },
+   "followAbbieToolTip": {
+      "message": "Suportahan ang tagalikha ng OpenDyslexic."
+   },
+   "followDyslexic": {
+      "message": "Sundin ang OpenDyslexic"
+   },
+   "followDyslexicToolTip": {
+      "message": "Sundin ang OpenDyslexic sa Twitter"
+   },
+   "followRobertJames": {
+      "message": "Sundin si Robert James"
+   },
+   "followRobertJamesToolTip": {
+      "message": "Sundin ang nagpapanatili ng app na ito."
+   },
+   "fontColorLabel": {
+      "message": "Font"
+   },
+   "fontColorSetting": {
+      "message": "Kulay"
+   },
+   "fontColorTooltip": {
+      "message": "Baguhin ang kulay ng font."
+   },
+   "googleDocsLabel": {
+      "message": "Google Docs"
+   },
+   "googleDocsTooltip": {
+      "message": "Paganahin ang buong suporta ng Google Docs."
+   },
+   "helperbird": {
+      "message": "Tuklasin ang Helperbird"
+   },
+   "off": {
+      "message": "Patay na"
+   },
+   "on": {
+      "message": "Sa"
+   },
+   "options": {
+      "message": "Mga pagpipilian"
+   },
+   "personalSetting": {
+      "message": "Pansarili"
+   },
+   "review": {
+      "message": "Pagsusuri"
+   },
+   "reviews": {
+      "message": "Mga pagsusuri"
+   },
+   "saved": {
+      "message": "Nai-save"
+   },
+   "selectedFontLabel": {
+      "message": "Napiling font na gagamitin."
+   },
+   "settings": {
+      "message": "Mga setting"
+   },
+   "socialSetting": {
+      "message": "Panlipunan"
+   },
+   "style": {
+      "message": "Istilo"
+   },
+   "supportToolTip": {
+      "message": "Iwanan o basahin ang mga review"
+   },
+   "supportToolTipTwo": {
+      "message": "Nagkakaroon ng isyu? Makipag-ugnay sa suporta."
+   },
+   "supportlSetting": {
+      "message": "Suporta"
+   },
+   "title_fonts": {
+      "message": "Mga font"
+   },
+   "websiteLabel": {
+      "message": "Website"
+   },
+   "websiteTooltip": {
+      "message": "Suporta sa website."
+   },
+   "whatsNew": {
+      "message": "Ano ang bago"
+   }
+}

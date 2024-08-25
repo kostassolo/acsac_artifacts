@@ -1,0 +1,142 @@
+{
+   "OpenDyslexic": {
+      "message": "Discover OpenDyslexic"
+   },
+   "appDescription": {
+      "description": "Format pages using the OpenDyslexic font and low contrast help",
+      "message": "Format pages using the OpenDyslexic font and low contrast help"
+   },
+   "appName": {
+      "description": "Format pages using the OpenDyslexic font and low contrast help.",
+      "message": "OpenDyslexic for Chrome"
+   },
+   "appNameEdge": {
+      "description": "Format pages using the OpenDyslexic font and low contrast help.",
+      "message": "OpenDyslexic for Edge"
+   },
+   "appNameFirefox": {
+      "description": "Format pages using the OpenDyslexic font and low contrast help.",
+      "message": "OpenDyslexic for Firefox"
+   },
+   "appTitle": {
+      "description": "Format pages using the OpenDyslexic font and low contrast help.",
+      "message": "OpenDyslexic"
+   },
+   "backgroundColorLabel": {
+      "message": "Background"
+   },
+   "backgroundColorTooltip": {
+      "message": "Change the background color."
+   },
+   "codeSetting": {
+      "message": "Source Code"
+   },
+   "comingSoon": {
+      "message": "Coming soon"
+   },
+   "enableFontLabel": {
+      "message": "Enable"
+   },
+   "featureTint": {
+      "message": "Enable Overlay"
+   },
+   "feature_specialized_font_options": {
+      "message": "Font options"
+   },
+   "firefox": {
+      "message": "Firefox Version"
+   },
+   "firefoxText": {
+      "message": "Use Firefox? Download it today."
+   },
+   "followAbbie": {
+      "message": "Support OpenDyslexic"
+   },
+   "followAbbieToolTip": {
+      "message": "Support the creator of OpenDyslexic."
+   },
+   "followDyslexic": {
+      "message": "Follow OpenDyslexic"
+   },
+   "followDyslexicToolTip": {
+      "message": "Follow OpenDyslexic on Twitter"
+   },
+   "followRobertJames": {
+      "message": "Follow Robert James"
+   },
+   "followRobertJamesToolTip": {
+      "message": "Follow the maintainer of this app."
+   },
+   "fontColorLabel": {
+      "message": "Font"
+   },
+   "fontColorSetting": {
+      "message": "Color"
+   },
+   "fontColorTooltip": {
+      "message": "Change the font color."
+   },
+   "googleDocsLabel": {
+      "message": "Google Docs"
+   },
+   "googleDocsTooltip": {
+      "message": "Enable full Google Docs support."
+   },
+   "helperbird": {
+      "message": "Discover Helperbird"
+   },
+   "off": {
+      "message": "Off"
+   },
+   "on": {
+      "message": "On"
+   },
+   "options": {
+      "message": "Options"
+   },
+   "personalSetting": {
+      "message": "Personal"
+   },
+   "review": {
+      "message": "Review"
+   },
+   "reviews": {
+      "message": "Reviews"
+   },
+   "saved": {
+      "message": "Saved"
+   },
+   "selectedFontLabel": {
+      "message": "Selected Font to use."
+   },
+   "settings": {
+      "message": "Settings"
+   },
+   "socialSetting": {
+      "message": "Social"
+   },
+   "style": {
+      "message": "Style"
+   },
+   "supportToolTip": {
+      "message": "Leave or read reviews"
+   },
+   "supportToolTipTwo": {
+      "message": "Having an issue? Contact support."
+   },
+   "supportlSetting": {
+      "message": "Support"
+   },
+   "title_fonts": {
+      "message": "Fonts"
+   },
+   "websiteLabel": {
+      "message": "Website"
+   },
+   "websiteTooltip": {
+      "message": "Support website."
+   },
+   "whatsNew": {
+      "message": "What`s new"
+   }
+}

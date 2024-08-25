@@ -1,0 +1,139 @@
+{
+   "OpenDyslexic": {
+      "message": "Otkrijte OpenDyslexic"
+   },
+   "appDescription": {
+      "description": "Formatirajte stranice koristeći font OpenDyslexic i pomoć pri niskom kontrastu",
+      "message": "Formatirajte stranice koristeći font OpenDyslexic i pomoć pri niskom kontrastu"
+   },
+   "appName": {
+      "description": "Formatirajte stranice koristeći font OpenDyslexic i pomoć pri niskom kontrastu.",
+      "message": "OpenDyslexic za Chrome"
+   },
+   "appNameEdge": {
+      "description": "Format pages using the OpenDyslexic font and low contrast help.",
+      "message": "OpenDyslexic for Edge"
+   },
+   "appNameFirefox": {
+      "description": "Format pages using the OpenDyslexic font and low contrast help.",
+      "message": "OpenDyslexic for Firefox"
+   },
+   "appTitle": {
+      "description": "Formatirajte stranice koristeći font OpenDyslexic i pomoć pri niskom kontrastu.",
+      "message": "OpenDyslexic"
+   },
+   "backgroundColorLabel": {
+      "message": "Pozadina"
+   },
+   "backgroundColorTooltip": {
+      "message": "Promijenite boju pozadine."
+   },
+   "codeSetting": {
+      "message": "Izvorni kod"
+   },
+   "comingSoon": {
+      "message": "Dolazi uskoro"
+   },
+   "enableFontLabel": {
+      "message": "Omogućiti"
+   },
+   "featureTint": {
+      "message": "Omogući preklapanje"
+   },
+   "firefox": {
+      "message": "Verzija Firefoxa"
+   },
+   "firefoxText": {
+      "message": "Koristiti Firefox? Preuzmite ga danas."
+   },
+   "followAbbie": {
+      "message": "Podrška za OpenDyslexic"
+   },
+   "followAbbieToolTip": {
+      "message": "Podržite tvorca OpenDyslexica."
+   },
+   "followDyslexic": {
+      "message": "Slijedite OpenDyslexic"
+   },
+   "followDyslexicToolTip": {
+      "message": "Slijedite OpenDyslexic na Twitteru"
+   },
+   "followRobertJames": {
+      "message": "Slijedite Roberta Jamesa"
+   },
+   "followRobertJamesToolTip": {
+      "message": "Slijedite održavatelja ove aplikacije."
+   },
+   "fontColorLabel": {
+      "message": "Font"
+   },
+   "fontColorSetting": {
+      "message": "Boja"
+   },
+   "fontColorTooltip": {
+      "message": "Promijenite boju fonta."
+   },
+   "googleDocsLabel": {
+      "message": "Google dokumenti"
+   },
+   "googleDocsTooltip": {
+      "message": "Omogućite potpunu podršku za Google dokumente."
+   },
+   "helperbird": {
+      "message": "Otkrijte Helperbird"
+   },
+   "off": {
+      "message": "Isključeno"
+   },
+   "on": {
+      "message": "Na"
+   },
+   "options": {
+      "message": "Opcije"
+   },
+   "personalSetting": {
+      "message": "Osobno"
+   },
+   "review": {
+      "message": "Pregled"
+   },
+   "reviews": {
+      "message": "Recenzije"
+   },
+   "saved": {
+      "message": "Spremljeno"
+   },
+   "selectedFontLabel": {
+      "message": "Odabrani font za upotrebu."
+   },
+   "settings": {
+      "message": "Postavke"
+   },
+   "socialSetting": {
+      "message": "Društveni"
+   },
+   "style": {
+      "message": "Stil"
+   },
+   "supportToolTip": {
+      "message": "Ostavite ili pročitajte kritike"
+   },
+   "supportToolTipTwo": {
+      "message": "Imate problem? Obratite se podršci."
+   },
+   "supportlSetting": {
+      "message": "Podrška"
+   },
+   "title_fonts": {
+      "message": "Krstionica"
+   },
+   "websiteLabel": {
+      "message": "Web stranica"
+   },
+   "websiteTooltip": {
+      "message": "Web stranica za podršku."
+   },
+   "whatsNew": {
+      "message": "Što je novo"
+   }
+}

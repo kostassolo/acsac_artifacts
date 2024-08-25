@@ -1,0 +1,8 @@
+{
+    "config": {
+        "enabled": 1,
+        "font": "comicsans",
+        "rulerEnabled": 0,
+        "rulerWidth": "50"
+    }
+}

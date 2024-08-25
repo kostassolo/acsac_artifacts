@@ -1,0 +1,139 @@
+{
+   "OpenDyslexic": {
+      "message": "ഓപ്പൺ ഡിസ്‌ലെക്‌സിക് കണ്ടെത്തുക"
+   },
+   "appDescription": {
+      "description": "ഓപ്പൺ ഡിസ്‌ലെക്‌സിക് ഫോണ്ടും കുറഞ്ഞ ദൃശ്യ തീവ്രതയും ഉപയോഗിച്ച് പേജുകൾ ഫോർമാറ്റുചെയ്യുക",
+      "message": "ഓപ്പൺ ഡിസ്‌ലെക്‌സിക് ഫോണ്ടും കുറഞ്ഞ ദൃശ്യ തീവ്രതയും ഉപയോഗിച്ച് പേജുകൾ ഫോർമാറ്റുചെയ്യുക"
+   },
+   "appName": {
+      "description": "ഓപ്പൺ ഡിസ്‌ലെക്‌സിക് ഫോണ്ടും കുറഞ്ഞ ദൃശ്യ തീവ്രതയും ഉപയോഗിച്ച് പേജുകൾ ഫോർമാറ്റുചെയ്യുക.",
+      "message": "Chrome- നുള്ള ഓപ്പൺ ഡിസ്‌ലെക്‌സിക്"
+   },
+   "appNameEdge": {
+      "description": "Format pages using the OpenDyslexic font and low contrast help.",
+      "message": "OpenDyslexic for Edge"
+   },
+   "appNameFirefox": {
+      "description": "Format pages using the OpenDyslexic font and low contrast help.",
+      "message": "OpenDyslexic for Firefox"
+   },
+   "appTitle": {
+      "description": "ഓപ്പൺ ഡിസ്‌ലെക്‌സിക് ഫോണ്ടും കുറഞ്ഞ ദൃശ്യ തീവ്രതയും ഉപയോഗിച്ച് പേജുകൾ ഫോർമാറ്റുചെയ്യുക.",
+      "message": "ഓപ്പൺ ഡിസ്‌ലെക്‌സിക്"
+   },
+   "backgroundColorLabel": {
+      "message": "പശ്ചാത്തലം"
+   },
+   "backgroundColorTooltip": {
+      "message": "പശ്ചാത്തല വർണ്ണം മാറ്റുക."
+   },
+   "codeSetting": {
+      "message": "സോഴ്സ് കോഡ്"
+   },
+   "comingSoon": {
+      "message": "ഉടൻ വരുന്നു"
+   },
+   "enableFontLabel": {
+      "message": "പ്രവർത്തനക്ഷമമാക്കുക"
+   },
+   "featureTint": {
+      "message": "ഓവർലേ പ്രവർത്തനക്ഷമമാക്കുക"
+   },
+   "firefox": {
+      "message": "ഫയർഫോക്സ് പതിപ്പ്"
+   },
+   "firefoxText": {
+      "message": "ഫയർഫോക്സ് ഉപയോഗിക്കണോ? ഇന്നുതന്നെ ഡൗൺലോഡുചെയ്യുക."
+   },
+   "followAbbie": {
+      "message": "ഓപ്പൺ ഡിസ്‌ലെക്‌സിക് പിന്തുണയ്‌ക്കുക"
+   },
+   "followAbbieToolTip": {
+      "message": "ഓപ്പൺ ഡിസ്‌ലെക്‌സിക് സ്രഷ്‌ടാവിനെ പിന്തുണയ്‌ക്കുക."
+   },
+   "followDyslexic": {
+      "message": "ഓപ്പൺ ഡിസ്‌ലെക്‌സിക് പിന്തുടരുക"
+   },
+   "followDyslexicToolTip": {
+      "message": "Twitter- ൽ OpenDyslexic പിന്തുടരുക"
+   },
+   "followRobertJames": {
+      "message": "റോബർട്ട് ജെയിംസിനെ പിന്തുടരുക"
+   },
+   "followRobertJamesToolTip": {
+      "message": "ഈ അപ്ലിക്കേഷന്റെ പരിപാലകനെ പിന്തുടരുക."
+   },
+   "fontColorLabel": {
+      "message": "ഫോണ്ട്"
+   },
+   "fontColorSetting": {
+      "message": "നിറം"
+   },
+   "fontColorTooltip": {
+      "message": "ഫോണ്ട് നിറം മാറ്റുക."
+   },
+   "googleDocsLabel": {
+      "message": "Google ഡോക്സ്"
+   },
+   "googleDocsTooltip": {
+      "message": "പൂർണ്ണ Google ഡോക്സ് പിന്തുണ പ്രാപ്തമാക്കുക."
+   },
+   "helperbird": {
+      "message": "ഹെൽപ്പർബേർഡ് കണ്ടെത്തുക"
+   },
+   "off": {
+      "message": "ഓഫാണ്"
+   },
+   "on": {
+      "message": "ഓണാണ്"
+   },
+   "options": {
+      "message": "ഓപ്ഷനുകൾ"
+   },
+   "personalSetting": {
+      "message": "വ്യക്തിഗതം"
+   },
+   "review": {
+      "message": "അവലോകനം"
+   },
+   "reviews": {
+      "message": "അവലോകനങ്ങൾ"
+   },
+   "saved": {
+      "message": "സംരക്ഷിച്ചു"
+   },
+   "selectedFontLabel": {
+      "message": "ഉപയോഗിക്കാൻ ഫോണ്ട് തിരഞ്ഞെടുത്തു."
+   },
+   "settings": {
+      "message": "ക്രമീകരണങ്ങൾ"
+   },
+   "socialSetting": {
+      "message": "സാമൂഹിക"
+   },
+   "style": {
+      "message": "ശൈലി"
+   },
+   "supportToolTip": {
+      "message": "അവലോകനങ്ങൾ ഉപേക്ഷിക്കുക അല്ലെങ്കിൽ വായിക്കുക"
+   },
+   "supportToolTipTwo": {
+      "message": "ഒരു പ്രശ്നമുണ്ടോ? കോൺ‌ടാക്റ്റ് പിന്തുണ."
+   },
+   "supportlSetting": {
+      "message": "പിന്തുണ"
+   },
+   "title_fonts": {
+      "message": "ഫോണ്ടുകൾ"
+   },
+   "websiteLabel": {
+      "message": "വെബ്സൈറ്റ്"
+   },
+   "websiteTooltip": {
+      "message": "പിന്തുണാ വെബ്സൈറ്റ്."
+   },
+   "whatsNew": {
+      "message": "എന്താണ് പുതിയത്"
+   }
+}

@@ -1,0 +1,139 @@
+{
+   "OpenDyslexic": {
+      "message": "Descobriu OpenDyslexic"
+   },
+   "appDescription": {
+      "description": "Formateu pàgines mitjançant el tipus de lletra OpenDyslexic i ajuda de baix contrast",
+      "message": "Formateu pàgines mitjançant el tipus de lletra OpenDyslexic i ajuda de baix contrast"
+   },
+   "appName": {
+      "description": "Formateu pàgines mitjançant el tipus de lletra OpenDyslexic i ajuda de baix contrast.",
+      "message": "OpenDyslexic per a Chrome"
+   },
+   "appNameEdge": {
+      "description": "Format pages using the OpenDyslexic font and low contrast help.",
+      "message": "OpenDyslexic for Edge"
+   },
+   "appNameFirefox": {
+      "description": "Format pages using the OpenDyslexic font and low contrast help.",
+      "message": "OpenDyslexic for Firefox"
+   },
+   "appTitle": {
+      "description": "Formateu pàgines mitjançant el tipus de lletra OpenDyslexic i ajuda de baix contrast.",
+      "message": "OpenDyslexic"
+   },
+   "backgroundColorLabel": {
+      "message": "Antecedents"
+   },
+   "backgroundColorTooltip": {
+      "message": "Canvieu el color de fons."
+   },
+   "codeSetting": {
+      "message": "Codi font"
+   },
+   "comingSoon": {
+      "message": "Pròximament"
+   },
+   "enableFontLabel": {
+      "message": "Activa"
+   },
+   "featureTint": {
+      "message": "Activa la superposició"
+   },
+   "firefox": {
+      "message": "Versió de Firefox"
+   },
+   "firefoxText": {
+      "message": "Voleu utilitzar Firefox? Descarregueu-lo avui mateix."
+   },
+   "followAbbie": {
+      "message": "Suport a OpenDyslexic"
+   },
+   "followAbbieToolTip": {
+      "message": "Donar suport al creador d’OpenDyslexic."
+   },
+   "followDyslexic": {
+      "message": "Seguiu OpenDyslexic"
+   },
+   "followDyslexicToolTip": {
+      "message": "Seguiu OpenDyslexic a Twitter"
+   },
+   "followRobertJames": {
+      "message": "Segueix Robert James"
+   },
+   "followRobertJamesToolTip": {
+      "message": "Seguiu el manteniment d'aquesta aplicació."
+   },
+   "fontColorLabel": {
+      "message": "Font"
+   },
+   "fontColorSetting": {
+      "message": "Color"
+   },
+   "fontColorTooltip": {
+      "message": "Canvieu el color de la lletra."
+   },
+   "googleDocsLabel": {
+      "message": "Documents de Google"
+   },
+   "googleDocsTooltip": {
+      "message": "Activeu l'assistència completa de Documents de Google."
+   },
+   "helperbird": {
+      "message": "Descobriu Helperbird"
+   },
+   "off": {
+      "message": "Desactivat"
+   },
+   "on": {
+      "message": "Encès"
+   },
+   "options": {
+      "message": "Opcions"
+   },
+   "personalSetting": {
+      "message": "Personal"
+   },
+   "review": {
+      "message": "Revisió"
+   },
+   "reviews": {
+      "message": "Ressenyes"
+   },
+   "saved": {
+      "message": "Desat"
+   },
+   "selectedFontLabel": {
+      "message": "Tipus de lletra seleccionat per utilitzar."
+   },
+   "settings": {
+      "message": "Configuració"
+   },
+   "socialSetting": {
+      "message": "Social"
+   },
+   "style": {
+      "message": "Estil"
+   },
+   "supportToolTip": {
+      "message": "Deixa o llegeix ressenyes"
+   },
+   "supportToolTipTwo": {
+      "message": "Tens algun problema? Contacte de suport."
+   },
+   "supportlSetting": {
+      "message": "Suport"
+   },
+   "title_fonts": {
+      "message": "Tipus de lletra"
+   },
+   "websiteLabel": {
+      "message": "Lloc web"
+   },
+   "websiteTooltip": {
+      "message": "Lloc web d'assistència."
+   },
+   "whatsNew": {
+      "message": "Què hi ha de nou?"
+   }
+}

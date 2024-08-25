@@ -1,0 +1,139 @@
+{
+   "OpenDyslexic": {
+      "message": "Відкрийте для себе OpenDyslexic"
+   },
+   "appDescription": {
+      "description": "Форматування сторінок за допомогою шрифту OpenDyslexic та довідки з низьким контрастом",
+      "message": "Форматування сторінок за допомогою шрифту OpenDyslexic та довідки з низьким контрастом"
+   },
+   "appName": {
+      "description": "Форматування сторінок за допомогою шрифту OpenDyslexic та довідки з низьким контрастом.",
+      "message": "OpenDyslexic для Chrome"
+   },
+   "appNameEdge": {
+      "description": "Format pages using the OpenDyslexic font and low contrast help.",
+      "message": "OpenDyslexic for Edge"
+   },
+   "appNameFirefox": {
+      "description": "Format pages using the OpenDyslexic font and low contrast help.",
+      "message": "OpenDyslexic for Firefox"
+   },
+   "appTitle": {
+      "description": "Форматування сторінок за допомогою шрифту OpenDyslexic та довідки з низьким контрастом.",
+      "message": "OpenDyslexic"
+   },
+   "backgroundColorLabel": {
+      "message": "Передумови"
+   },
+   "backgroundColorTooltip": {
+      "message": "Змініть колір тла."
+   },
+   "codeSetting": {
+      "message": "Вихідний код"
+   },
+   "comingSoon": {
+      "message": "Незабаром"
+   },
+   "enableFontLabel": {
+      "message": "Увімкнути"
+   },
+   "featureTint": {
+      "message": "Увімкнути накладання"
+   },
+   "firefox": {
+      "message": "Версія Firefox"
+   },
+   "firefoxText": {
+      "message": "Використовувати Firefox? Завантажте його сьогодні."
+   },
+   "followAbbie": {
+      "message": "Підтримка OpenDyslexic"
+   },
+   "followAbbieToolTip": {
+      "message": "Підтримка творця OpenDyslexic."
+   },
+   "followDyslexic": {
+      "message": "Дотримуйтесь OpenDyslexic"
+   },
+   "followDyslexicToolTip": {
+      "message": "Слідкуйте за OpenDyslexic у Twitter"
+   },
+   "followRobertJames": {
+      "message": "Слідуйте за Робертом Джеймсом"
+   },
+   "followRobertJamesToolTip": {
+      "message": "Слідуйте за супровідником цього додатка."
+   },
+   "fontColorLabel": {
+      "message": "Шрифт"
+   },
+   "fontColorSetting": {
+      "message": "Колір"
+   },
+   "fontColorTooltip": {
+      "message": "Змініть колір шрифту."
+   },
+   "googleDocsLabel": {
+      "message": "Документи Google"
+   },
+   "googleDocsTooltip": {
+      "message": "Увімкніть повну підтримку Документів Google."
+   },
+   "helperbird": {
+      "message": "Відкрийте Helperbird"
+   },
+   "off": {
+      "message": "Вимкнено"
+   },
+   "on": {
+      "message": "Увімкнено"
+   },
+   "options": {
+      "message": "Варіанти"
+   },
+   "personalSetting": {
+      "message": "Особистий"
+   },
+   "review": {
+      "message": "Огляд"
+   },
+   "reviews": {
+      "message": "Відгуки"
+   },
+   "saved": {
+      "message": "Збережено"
+   },
+   "selectedFontLabel": {
+      "message": "Вибраний шрифт для використання."
+   },
+   "settings": {
+      "message": "Налаштування"
+   },
+   "socialSetting": {
+      "message": "Соціальна"
+   },
+   "style": {
+      "message": "Стиль"
+   },
+   "supportToolTip": {
+      "message": "Залишайте або читайте відгуки"
+   },
+   "supportToolTipTwo": {
+      "message": "Виникли проблеми? Зверніться до служби підтримки."
+   },
+   "supportlSetting": {
+      "message": "Підтримка"
+   },
+   "title_fonts": {
+      "message": "Шрифти"
+   },
+   "websiteLabel": {
+      "message": "Веб-сайт"
+   },
+   "websiteTooltip": {
+      "message": "Веб-сайт підтримки."
+   },
+   "whatsNew": {
+      "message": "Що нового"
+   }
+}

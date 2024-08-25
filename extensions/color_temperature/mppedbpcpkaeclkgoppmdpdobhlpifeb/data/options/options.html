@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link type="text/css" rel="stylesheet" href="options.css">
+  </head>
+  <body>
+    <div class="logo"></div>
+    <div>
+      <table class="items">
+        <tbody>
+          <tr>
+            <td>1. Enable hotkey for switching the addon ON | OFF (Crtl+Shift+Y)</td>
+            <td style="width: 32px; text-align: center">
+              <input data-pref="hotkey.mode" type="checkbox">
+            </td>
+          </tr>
+          <tr>
+            <td>2. Enable hotkey for adding the active tab URL to the whitelist table (Crtl+Shift+U)</td>
+            <td style="width: 32px; text-align: center">
+              <input data-pref="hotkey.add" type="checkbox">
+            </td>
+          </tr>
+          <tr>
+            <td>3. Enable hotkey for removing the active tab URL from the whitelist table (Crtl+Shift+Z)</td>
+            <td style="width: 32px; text-align: center">
+              <input data-pref="hotkey.remove" type="checkbox">
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div id="information-span">
+      Color Temperature (Change Lux) protects your eyes by adding a warm color to all websites (i.e. at night time or when the ambient is dark). Using this add-on, you can avoid excessive light, and also it makes you sleep much better by protecting you from the - blue glow - of your computer's screen. To add a website to the whitelist table, enter the website address in the input field below and click on the (+) sign or press enter. Please note: the address should be a valid URL (i.e. https://www.google.com/), otherwise, it won't be added to the list.
+    </div>
+    <div id="content">
+      <table>
+        <tbody>
+          <tr>
+            <td id="input-field-td">
+              <input type='text' id="input-field" placeholder="Enter a website to exclude it from Screen Color Temperature (i.e. https://www.google.com/)">
+            </td>
+            <td id="input-field-add" title="Add Website to the White-list">
+              <svg width="10" height="10" viewBox="0 0 122.8799 122.8799">
+                <path d="M 4.9160156 0.27148438 L 4.9160156 4.9433594 L 0.24414062 4.9433594 L 0.24414062 7.0605469 L 4.9160156 7.0605469 L 4.9160156 11.732422 L 7.0332031 11.732422 L 7.0332031 7.0605469 L 11.707031 7.0605469 L 11.707031 4.9433594 L 7.0332031 4.9433594 L 7.0332031 0.27148438 L 4.9160156 0.27148438 z" transform="scale(10.239992)"/>
+              </svg>              
+            </td>
+          </tr>
+        </tbody>
+      </table>
+      <div id="website-list">
+        <table id="white-list-table" class="items"></table>
+      </div>
+    </div>
+    <script type="text/javascript" src="options.js"></script>
+  </body>
+</html>

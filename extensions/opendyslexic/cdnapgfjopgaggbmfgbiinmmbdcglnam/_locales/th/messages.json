@@ -1,0 +1,139 @@
+{
+   "OpenDyslexic": {
+      "message": "ค้นพบ OpenDyslexic"
+   },
+   "appDescription": {
+      "description": "จัดรูปแบบหน้าโดยใช้ฟอนต์ OpenDyslexic และวิธีใช้คอนทราสต์ต่ำ",
+      "message": "จัดรูปแบบหน้าโดยใช้ฟอนต์ OpenDyslexic และวิธีใช้คอนทราสต์ต่ำ"
+   },
+   "appName": {
+      "description": "จัดรูปแบบหน้าโดยใช้ฟอนต์ OpenDyslexic และวิธีใช้คอนทราสต์ต่ำ",
+      "message": "OpenDyslexic สำหรับ Chrome"
+   },
+   "appNameEdge": {
+      "description": "Format pages using the OpenDyslexic font and low contrast help.",
+      "message": "OpenDyslexic for Edge"
+   },
+   "appNameFirefox": {
+      "description": "Format pages using the OpenDyslexic font and low contrast help.",
+      "message": "OpenDyslexic for Firefox"
+   },
+   "appTitle": {
+      "description": "จัดรูปแบบหน้าโดยใช้ฟอนต์ OpenDyslexic และวิธีใช้คอนทราสต์ต่ำ",
+      "message": "OpenDyslexic"
+   },
+   "backgroundColorLabel": {
+      "message": "พื้นหลัง"
+   },
+   "backgroundColorTooltip": {
+      "message": "เปลี่ยนสีพื้นหลัง"
+   },
+   "codeSetting": {
+      "message": "รหัสแหล่งที่มา"
+   },
+   "comingSoon": {
+      "message": "เร็ว ๆ นี้"
+   },
+   "enableFontLabel": {
+      "message": "เปิดใช้งาน"
+   },
+   "featureTint": {
+      "message": "เปิดใช้งานการวางซ้อน"
+   },
+   "firefox": {
+      "message": "เวอร์ชัน Firefox"
+   },
+   "firefoxText": {
+      "message": "ใช้ไฟร์ฟอกซ์? ดาวน์โหลดได้แล้ววันนี้"
+   },
+   "followAbbie": {
+      "message": "สนับสนุน OpenDyslexic"
+   },
+   "followAbbieToolTip": {
+      "message": "สนับสนุนผู้สร้าง OpenDyslexic"
+   },
+   "followDyslexic": {
+      "message": "ติดตาม OpenDyslexic"
+   },
+   "followDyslexicToolTip": {
+      "message": "ติดตาม OpenDyslexic บน Twitter"
+   },
+   "followRobertJames": {
+      "message": "ติดตามโรเบิร์ตเจมส์"
+   },
+   "followRobertJamesToolTip": {
+      "message": "ติดตามผู้ดูแลแอพนี้"
+   },
+   "fontColorLabel": {
+      "message": "แบบอักษร"
+   },
+   "fontColorSetting": {
+      "message": "สี"
+   },
+   "fontColorTooltip": {
+      "message": "เปลี่ยนสีแบบอักษร"
+   },
+   "googleDocsLabel": {
+      "message": "Google Docs"
+   },
+   "googleDocsTooltip": {
+      "message": "เปิดใช้งานการสนับสนุน Google เอกสารเต็มรูปแบบ"
+   },
+   "helperbird": {
+      "message": "ค้นพบ Helperbird"
+   },
+   "off": {
+      "message": "ปิด"
+   },
+   "on": {
+      "message": "บน"
+   },
+   "options": {
+      "message": "ตัวเลือก"
+   },
+   "personalSetting": {
+      "message": "ส่วนตัว"
+   },
+   "review": {
+      "message": "รีวิว"
+   },
+   "reviews": {
+      "message": "ความคิดเห็น"
+   },
+   "saved": {
+      "message": "บันทึกแล้ว"
+   },
+   "selectedFontLabel": {
+      "message": "ฟอนต์ที่เลือกไว้ใช้งาน"
+   },
+   "settings": {
+      "message": "การตั้งค่า"
+   },
+   "socialSetting": {
+      "message": "สังคม"
+   },
+   "style": {
+      "message": "สไตล์"
+   },
+   "supportToolTip": {
+      "message": "ฝากหรืออ่านบทวิจารณ์"
+   },
+   "supportToolTipTwo": {
+      "message": "มีปัญหา? ติดต่อฝ่ายสนับสนุน"
+   },
+   "supportlSetting": {
+      "message": "สนับสนุน"
+   },
+   "title_fonts": {
+      "message": "แบบอักษร"
+   },
+   "websiteLabel": {
+      "message": "เว็บไซต์"
+   },
+   "websiteTooltip": {
+      "message": "เว็บไซต์สนับสนุน"
+   },
+   "whatsNew": {
+      "message": "มีอะไรใหม่"
+   }
+}

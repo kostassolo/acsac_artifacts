@@ -1,0 +1,162 @@
+body {
+  border: 0;
+  padding: 0;
+  color: #555;
+  width: 800px;
+  margin: 0 auto;
+  align-items: center;
+  font-family: arial, sans-serif;
+}
+
+body, table, span, input {
+  font-size: 12px;
+}
+
+table {
+  border: 0;
+  padding: 0;
+  width: 100%;
+  border-spacing: 0;
+}
+
+table tr td {
+  border: 0;
+  margin: 0;
+  padding: 0;
+  height: 42px;
+  border-width: 0;
+  font-size: 12px;
+  transition: 300ms background-color;
+}
+
+table tr td[type='number'] {
+  width: 42px;
+  font-size: 12px;
+  text-align: center;
+  font-family: monospace;
+}
+
+table tr td[type='item'] {
+  color: #555;
+  display: block;
+  font-size: 12px;
+  overflow: hidden;
+  text-indent: 10px;
+  line-height: 42px;
+  white-space: nowrap;
+  font-family: monospace;
+  border-left: solid 1px rgba(0,0,0,0.05);
+}
+
+table tr td[type='close'] {
+  width: 42px;
+  font-size: 8px;
+  cursor: pointer;
+  text-align: center;
+}
+
+table tr td[type='close']:hover {
+  color: #fff;
+  background-color: #C75050;
+}
+
+input {
+  border: 0;
+  margin: 0;
+  padding: 0;
+  outline: none;
+  vertical-align: middle;
+}
+
+.note {
+  padding: 0;
+  font-size: 90%;
+  margin: 5px 0 0 0;
+  color: white !important;
+}
+
+.items {
+  border: 0;
+  outline: 0;
+  padding: 0;
+  width: 100%;
+  color: #555;
+  margin: 0 auto;
+  border-spacing: 0 5px;
+}
+
+.items tr td {
+  padding: 0;
+  color: #555;
+  text-indent: 5px;
+  user-select: none;
+}
+
+.items tr td a {
+  color: #555;
+  text-decoration: none; 
+}
+
+#content > table {
+  margin-top: 25px;
+}
+
+#content table tr {
+  outline: solid 1px rgba(0,0,0,0.25);
+}
+
+#input-field {
+  border: 0;
+  margin: 0;
+  padding: 0;
+  color: #555;
+  width: 100%;
+  height: 100%;
+  font-size: 12px;
+  text-indent: 10px;
+  font-family: monospace;
+}
+
+#input-field-add {
+  width: 68px;
+  height: 42px;
+  cursor: pointer;
+  text-align: center;
+  background-color: #777;
+}
+
+#input-field-add:hover {
+  background-color: #555;
+}
+
+#input-field-add svg {
+  fill: #fff;
+  pointer-events: none;
+  vertical-align: middle;
+}
+
+#website-list {
+  padding: 0;
+  margin-top: 10px;
+}
+
+#information-span {
+  width: 100%;
+  color: #333;
+  margin: auto;
+  user-select: none;
+  padding: 5px 10px;
+  line-height: 24px;
+  text-align: justify;
+  box-sizing: border-box;
+  background-color: #f6890c3b;
+  border: solid 1px rgba(0,0,0,0.1);
+}
+
+.logo {
+  width: 100%;
+  height: 128px;
+  border-bottom: solid 1px rgba(0,0,0,0.1);
+  background: url('../icons/128.png') no-repeat center center;
+  background-size: 64px;
+}

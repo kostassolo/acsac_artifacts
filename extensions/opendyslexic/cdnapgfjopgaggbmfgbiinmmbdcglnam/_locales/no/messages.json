@@ -1,0 +1,139 @@
+{
+   "OpenDyslexic": {
+      "message": "Oppdag OpenDyslexic"
+   },
+   "appDescription": {
+      "description": "Formater sider ved hjelp av OpenDyslexic-skrifttypen og hjelp med lav kontrast",
+      "message": "Formater sider ved hjelp av OpenDyslexic-skrifttypen og hjelp med lav kontrast"
+   },
+   "appName": {
+      "description": "Formater sider ved hjelp av OpenDyslexic-skrifttypen og hjelp med lav kontrast.",
+      "message": "OpenDyslexic for Chrome"
+   },
+   "appNameEdge": {
+      "description": "Format pages using the OpenDyslexic font and low contrast help.",
+      "message": "OpenDyslexic for Edge"
+   },
+   "appNameFirefox": {
+      "description": "Format pages using the OpenDyslexic font and low contrast help.",
+      "message": "OpenDyslexic for Firefox"
+   },
+   "appTitle": {
+      "description": "Formater sider ved hjelp av OpenDyslexic-skrifttypen og hjelp med lav kontrast.",
+      "message": "OpenDyslexic"
+   },
+   "backgroundColorLabel": {
+      "message": "Bakgrunn"
+   },
+   "backgroundColorTooltip": {
+      "message": "Endre bakgrunnsfargen."
+   },
+   "codeSetting": {
+      "message": "Kildekode"
+   },
+   "comingSoon": {
+      "message": "Kommer snart"
+   },
+   "enableFontLabel": {
+      "message": "Muliggjøre"
+   },
+   "featureTint": {
+      "message": "Aktiver overlegg"
+   },
+   "firefox": {
+      "message": "Firefox-versjon"
+   },
+   "firefoxText": {
+      "message": "Bruke Firefox? Last ned den i dag."
+   },
+   "followAbbie": {
+      "message": "Støtt OpenDyslexic"
+   },
+   "followAbbieToolTip": {
+      "message": "Støtt skaperen av OpenDyslexic."
+   },
+   "followDyslexic": {
+      "message": "Følg OpenDyslexic"
+   },
+   "followDyslexicToolTip": {
+      "message": "Følg OpenDyslexic på Twitter"
+   },
+   "followRobertJames": {
+      "message": "Følg Robert James"
+   },
+   "followRobertJamesToolTip": {
+      "message": "Følg vedlikeholderen av denne appen."
+   },
+   "fontColorLabel": {
+      "message": "Font"
+   },
+   "fontColorSetting": {
+      "message": "Farge"
+   },
+   "fontColorTooltip": {
+      "message": "Endre skriftfargen."
+   },
+   "googleDocsLabel": {
+      "message": "google Dokumenter"
+   },
+   "googleDocsTooltip": {
+      "message": "Aktiver full støtte for Google Dokumenter."
+   },
+   "helperbird": {
+      "message": "Oppdag Helperbird"
+   },
+   "off": {
+      "message": "Av"
+   },
+   "on": {
+      "message": "På"
+   },
+   "options": {
+      "message": "Alternativer"
+   },
+   "personalSetting": {
+      "message": "Personlig"
+   },
+   "review": {
+      "message": "Anmeldelse"
+   },
+   "reviews": {
+      "message": "Anmeldelser"
+   },
+   "saved": {
+      "message": "Lagret"
+   },
+   "selectedFontLabel": {
+      "message": "Valgt skrift som skal brukes."
+   },
+   "settings": {
+      "message": "Innstillinger"
+   },
+   "socialSetting": {
+      "message": "Sosial"
+   },
+   "style": {
+      "message": "Stil"
+   },
+   "supportToolTip": {
+      "message": "Legg igjen eller les anmeldelser"
+   },
+   "supportToolTipTwo": {
+      "message": "Har du et problem? Kontakt support."
+   },
+   "supportlSetting": {
+      "message": "Brukerstøtte"
+   },
+   "title_fonts": {
+      "message": "Skrifttyper"
+   },
+   "websiteLabel": {
+      "message": "Nettsted"
+   },
+   "websiteTooltip": {
+      "message": "Støttenettsted."
+   },
+   "whatsNew": {
+      "message": "Hva er nytt"
+   }
+}

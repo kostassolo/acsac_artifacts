@@ -1,0 +1,139 @@
+{
+   "OpenDyslexic": {
+      "message": "Scopri OpenDyslexic"
+   },
+   "appDescription": {
+      "description": "Formattare le pagine utilizzando il carattere OpenDyslexic e la guida a basso contrasto",
+      "message": "Formattare le pagine utilizzando il carattere OpenDyslexic e la guida a basso contrasto"
+   },
+   "appName": {
+      "description": "Formattare le pagine utilizzando il carattere OpenDyslexic e la guida a basso contrasto.",
+      "message": "OpenDyslexic per Chrome"
+   },
+   "appNameEdge": {
+      "description": "Format pages using the OpenDyslexic font and low contrast help.",
+      "message": "OpenDyslexic for Edge"
+   },
+   "appNameFirefox": {
+      "description": "Format pages using the OpenDyslexic font and low contrast help.",
+      "message": "OpenDyslexic for Firefox"
+   },
+   "appTitle": {
+      "description": "Formattare le pagine utilizzando il carattere OpenDyslexic e la guida a basso contrasto.",
+      "message": "ApriDislessico"
+   },
+   "backgroundColorLabel": {
+      "message": "sfondo"
+   },
+   "backgroundColorTooltip": {
+      "message": "Cambia il colore di sfondo."
+   },
+   "codeSetting": {
+      "message": "Codice sorgente"
+   },
+   "comingSoon": {
+      "message": "Prossimamente"
+   },
+   "enableFontLabel": {
+      "message": "Abilitare"
+   },
+   "featureTint": {
+      "message": "Abilita sovrapposizione"
+   },
+   "firefox": {
+      "message": "Versione Firefox"
+   },
+   "firefoxText": {
+      "message": "Usi Firefox? Scaricalo oggi."
+   },
+   "followAbbie": {
+      "message": "Supporta OpenDyslexic"
+   },
+   "followAbbieToolTip": {
+      "message": "Sostieni il creatore di OpenDyslexic."
+   },
+   "followDyslexic": {
+      "message": "Segui OpenDyslexic"
+   },
+   "followDyslexicToolTip": {
+      "message": "Segui OpenDyslexic su Twitter"
+   },
+   "followRobertJames": {
+      "message": "Segui Robert James"
+   },
+   "followRobertJamesToolTip": {
+      "message": "Segui il manutentore di questa app."
+   },
+   "fontColorLabel": {
+      "message": "Font"
+   },
+   "fontColorSetting": {
+      "message": "Colore"
+   },
+   "fontColorTooltip": {
+      "message": "Cambia il colore del carattere."
+   },
+   "googleDocsLabel": {
+      "message": "documenti Google"
+   },
+   "googleDocsTooltip": {
+      "message": "Abilita il supporto completo di Google Documenti."
+   },
+   "helperbird": {
+      "message": "Scopri Helperbird"
+   },
+   "off": {
+      "message": "spento"
+   },
+   "on": {
+      "message": "Sopra"
+   },
+   "options": {
+      "message": "Opzioni"
+   },
+   "personalSetting": {
+      "message": "Personale"
+   },
+   "review": {
+      "message": "Revisione"
+   },
+   "reviews": {
+      "message": "Recensioni"
+   },
+   "saved": {
+      "message": "Salvato"
+   },
+   "selectedFontLabel": {
+      "message": "Carattere selezionato da utilizzare."
+   },
+   "settings": {
+      "message": "impostazioni"
+   },
+   "socialSetting": {
+      "message": "Sociale"
+   },
+   "style": {
+      "message": "Stile"
+   },
+   "supportToolTip": {
+      "message": "Lascia o leggi le recensioni"
+   },
+   "supportToolTipTwo": {
+      "message": "Hai un problema? Contatta il supporto."
+   },
+   "supportlSetting": {
+      "message": "Supporto"
+   },
+   "title_fonts": {
+      "message": "caratteri"
+   },
+   "websiteLabel": {
+      "message": "Sito web"
+   },
+   "websiteTooltip": {
+      "message": "Sito web di supporto."
+   },
+   "whatsNew": {
+      "message": "Cosa c'è di nuovo?"
+   }
+}

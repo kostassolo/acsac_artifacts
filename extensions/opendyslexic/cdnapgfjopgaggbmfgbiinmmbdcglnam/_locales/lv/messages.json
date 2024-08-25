@@ -1,0 +1,139 @@
+{
+   "OpenDyslexic": {
+      "message": "Atklājiet OpenDyslexic"
+   },
+   "appDescription": {
+      "description": "Formatējiet lapas, izmantojot fontu OpenDyslexic un palīdzību ar zemu kontrastu",
+      "message": "Formatējiet lapas, izmantojot fontu OpenDyslexic un palīdzību ar zemu kontrastu"
+   },
+   "appName": {
+      "description": "Formatējiet lapas, izmantojot fontu OpenDyslexic un palīdzību ar zemu kontrastu.",
+      "message": "OpenDyslexic pārlūkam Chrome"
+   },
+   "appNameEdge": {
+      "description": "Format pages using the OpenDyslexic font and low contrast help.",
+      "message": "OpenDyslexic for Edge"
+   },
+   "appNameFirefox": {
+      "description": "Format pages using the OpenDyslexic font and low contrast help.",
+      "message": "OpenDyslexic for Firefox"
+   },
+   "appTitle": {
+      "description": "Formatējiet lapas, izmantojot fontu OpenDyslexic un palīdzību ar zemu kontrastu.",
+      "message": "OpenDyslexic"
+   },
+   "backgroundColorLabel": {
+      "message": "Priekšvēsture"
+   },
+   "backgroundColorTooltip": {
+      "message": "Mainiet fona krāsu."
+   },
+   "codeSetting": {
+      "message": "Avota kods"
+   },
+   "comingSoon": {
+      "message": "Drīzumā"
+   },
+   "enableFontLabel": {
+      "message": "Iespējot"
+   },
+   "featureTint": {
+      "message": "Iespējot pārklājumu"
+   },
+   "firefox": {
+      "message": "Firefox versija"
+   },
+   "firefoxText": {
+      "message": "Vai izmantot Firefox? Lejupielādējiet to šodien."
+   },
+   "followAbbie": {
+      "message": "Atbalstiet OpenDyslexic"
+   },
+   "followAbbieToolTip": {
+      "message": "Atbalstiet OpenDyslexic veidotāju."
+   },
+   "followDyslexic": {
+      "message": "Sekojiet OpenDyslexic"
+   },
+   "followDyslexicToolTip": {
+      "message": "Sekojiet OpenDyslexic vietnē Twitter"
+   },
+   "followRobertJames": {
+      "message": "Seko Robert James"
+   },
+   "followRobertJamesToolTip": {
+      "message": "Sekojiet šīs lietotnes uzturētājam."
+   },
+   "fontColorLabel": {
+      "message": "Fonts"
+   },
+   "fontColorSetting": {
+      "message": "Krāsa"
+   },
+   "fontColorTooltip": {
+      "message": "Mainiet fonta krāsu."
+   },
+   "googleDocsLabel": {
+      "message": "Google dokumenti"
+   },
+   "googleDocsTooltip": {
+      "message": "Iespējojiet pilnīgu Google dokumentu atbalstu."
+   },
+   "helperbird": {
+      "message": "Atklājiet Helperbird"
+   },
+   "off": {
+      "message": "Izslēgts"
+   },
+   "on": {
+      "message": "Ieslēgts"
+   },
+   "options": {
+      "message": "Iespējas"
+   },
+   "personalSetting": {
+      "message": "Personiski"
+   },
+   "review": {
+      "message": "Pārskatīšana"
+   },
+   "reviews": {
+      "message": "Atsauksmes"
+   },
+   "saved": {
+      "message": "Saglabāts"
+   },
+   "selectedFontLabel": {
+      "message": "Atlasīts izmantojamais fonts."
+   },
+   "settings": {
+      "message": "Iestatījumi"
+   },
+   "socialSetting": {
+      "message": "Sociālais"
+   },
+   "style": {
+      "message": "Stils"
+   },
+   "supportToolTip": {
+      "message": "Atstājiet vai lasiet atsauksmes"
+   },
+   "supportToolTipTwo": {
+      "message": "Vai jums ir problēma? Sazinieties ar atbalsta dienestu."
+   },
+   "supportlSetting": {
+      "message": "Atbalsts"
+   },
+   "title_fonts": {
+      "message": "Fonti"
+   },
+   "websiteLabel": {
+      "message": "Vietne"
+   },
+   "websiteTooltip": {
+      "message": "Atbalsta vietne."
+   },
+   "whatsNew": {
+      "message": "Kas jauns"
+   }
+}

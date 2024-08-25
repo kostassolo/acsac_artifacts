@@ -1,0 +1,139 @@
+{
+   "OpenDyslexic": {
+      "message": "OpenDislexic'i keşfedin"
+   },
+   "appDescription": {
+      "description": "OpenDyslexic yazı tipini ve düşük kontrastlı yardımı kullanarak sayfaları biçimlendirin",
+      "message": "OpenDyslexic yazı tipini ve düşük kontrastlı yardımı kullanarak sayfaları biçimlendirin"
+   },
+   "appName": {
+      "description": "OpenDyslexic yazı tipini ve düşük kontrastlı yardımı kullanarak sayfaları biçimlendirin.",
+      "message": "Chrome için OpenDislexic"
+   },
+   "appNameEdge": {
+      "description": "Format pages using the OpenDyslexic font and low contrast help.",
+      "message": "OpenDyslexic for Edge"
+   },
+   "appNameFirefox": {
+      "description": "Format pages using the OpenDyslexic font and low contrast help.",
+      "message": "OpenDyslexic for Firefox"
+   },
+   "appTitle": {
+      "description": "OpenDyslexic yazı tipini ve düşük kontrastlı yardımı kullanarak sayfaları biçimlendirin.",
+      "message": "AçıkDisleksik"
+   },
+   "backgroundColorLabel": {
+      "message": "Arka fon"
+   },
+   "backgroundColorTooltip": {
+      "message": "Arka plan rengini değiştirin."
+   },
+   "codeSetting": {
+      "message": "Kaynak kodu"
+   },
+   "comingSoon": {
+      "message": "Çok yakında"
+   },
+   "enableFontLabel": {
+      "message": "etkinleştirme"
+   },
+   "featureTint": {
+      "message": "Yer Paylaşımını Etkinleştir"
+   },
+   "firefox": {
+      "message": "Firefox Sürümü"
+   },
+   "firefoxText": {
+      "message": "Firefox'u kullan? Bugün indirin."
+   },
+   "followAbbie": {
+      "message": "OpenDislexic'i destekleyin"
+   },
+   "followAbbieToolTip": {
+      "message": "OpenDyslexic'in yaratıcısını destekleyin."
+   },
+   "followDyslexic": {
+      "message": "OpenDislexic'i takip edin"
+   },
+   "followDyslexicToolTip": {
+      "message": "OpenDyslexic'i Twitter'da takip edin"
+   },
+   "followRobertJames": {
+      "message": "Robert James'i takip edin"
+   },
+   "followRobertJamesToolTip": {
+      "message": "Bu uygulamanın bakıcısını takip edin."
+   },
+   "fontColorLabel": {
+      "message": "Yazı tipi"
+   },
+   "fontColorSetting": {
+      "message": "Renk"
+   },
+   "fontColorTooltip": {
+      "message": "Yazı tipi rengini değiştirin."
+   },
+   "googleDocsLabel": {
+      "message": "Google Dokümanlar"
+   },
+   "googleDocsTooltip": {
+      "message": "Tam Google Dokümanlar desteğini etkinleştirin."
+   },
+   "helperbird": {
+      "message": "Helperbird'ü Keşfet"
+   },
+   "off": {
+      "message": "Kapalı"
+   },
+   "on": {
+      "message": "açık"
+   },
+   "options": {
+      "message": "Seçenekler"
+   },
+   "personalSetting": {
+      "message": "Kişiye özel"
+   },
+   "review": {
+      "message": "gözden geçirmek"
+   },
+   "reviews": {
+      "message": "İncelemeler"
+   },
+   "saved": {
+      "message": "kaydedildi"
+   },
+   "selectedFontLabel": {
+      "message": "Kullanılacak Yazı Tipi Seçildi."
+   },
+   "settings": {
+      "message": "Ayarlar"
+   },
+   "socialSetting": {
+      "message": "Sosyal"
+   },
+   "style": {
+      "message": "stil"
+   },
+   "supportToolTip": {
+      "message": "Yorumları bırakın veya okuyun"
+   },
+   "supportToolTipTwo": {
+      "message": "Sorun mu yaşıyorsunuz? İletişim desteği."
+   },
+   "supportlSetting": {
+      "message": "Destek"
+   },
+   "title_fonts": {
+      "message": "Yazı Tipleri"
+   },
+   "websiteLabel": {
+      "message": "İnternet sitesi"
+   },
+   "websiteTooltip": {
+      "message": "Destek web sitesi."
+   },
+   "whatsNew": {
+      "message": "yenilikler"
+   }
+}

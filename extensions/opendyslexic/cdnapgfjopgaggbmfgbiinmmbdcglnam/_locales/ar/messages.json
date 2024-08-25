@@ -1,0 +1,139 @@
+{
+   "OpenDyslexic": {
+      "message": "اكتشف OpenDyslexic"
+   },
+   "appDescription": {
+      "description": "تنسيق الصفحات باستخدام خط OpenDyslexic وتعليمات التباين المنخفض",
+      "message": "تنسيق الصفحات باستخدام خط OpenDyslexic وتعليمات التباين المنخفض"
+   },
+   "appName": {
+      "description": "تنسيق الصفحات باستخدام خط OpenDyslexic وتعليمات التباين المنخفض.",
+      "message": "OpenDyslexic لمتصفح Chrome"
+   },
+   "appNameEdge": {
+      "description": "Format pages using the OpenDyslexic font and low contrast help.",
+      "message": "OpenDyslexic for Edge"
+   },
+   "appNameFirefox": {
+      "description": "Format pages using the OpenDyslexic font and low contrast help.",
+      "message": "OpenDyslexic for Firefox"
+   },
+   "appTitle": {
+      "description": "تنسيق الصفحات باستخدام خط OpenDyslexic وتعليمات التباين المنخفض.",
+      "message": "مفتوح"
+   },
+   "backgroundColorLabel": {
+      "message": "خلفية"
+   },
+   "backgroundColorTooltip": {
+      "message": "تغيير لون الخلفية."
+   },
+   "codeSetting": {
+      "message": "مصدر الرمز"
+   },
+   "comingSoon": {
+      "message": "قريبا"
+   },
+   "enableFontLabel": {
+      "message": "ممكن"
+   },
+   "featureTint": {
+      "message": "تمكين التراكب"
+   },
+   "firefox": {
+      "message": "نسخة Firefox"
+   },
+   "firefoxText": {
+      "message": "هل تستخدم Firefox؟ حمله اليوم."
+   },
+   "followAbbie": {
+      "message": "دعم OpenDyslexic"
+   },
+   "followAbbieToolTip": {
+      "message": "دعم منشئ OpenDyslexic."
+   },
+   "followDyslexic": {
+      "message": "اتبع OpenDyslexic"
+   },
+   "followDyslexicToolTip": {
+      "message": "تابع OpenDyslexic على Twitter"
+   },
+   "followRobertJames": {
+      "message": "اتبع روبرت جيمس"
+   },
+   "followRobertJamesToolTip": {
+      "message": "اتبع المشرف على هذا التطبيق."
+   },
+   "fontColorLabel": {
+      "message": "الخط"
+   },
+   "fontColorSetting": {
+      "message": "اللون"
+   },
+   "fontColorTooltip": {
+      "message": "تغيير لون الخط."
+   },
+   "googleDocsLabel": {
+      "message": "مستندات جوجل"
+   },
+   "googleDocsTooltip": {
+      "message": "تفعيل الدعم الكامل لمُحرر مستندات Google."
+   },
+   "helperbird": {
+      "message": "اكتشف Helperbird"
+   },
+   "off": {
+      "message": "عن"
+   },
+   "on": {
+      "message": "على"
+   },
+   "options": {
+      "message": "خيارات"
+   },
+   "personalSetting": {
+      "message": "شخصي"
+   },
+   "review": {
+      "message": "إعادة النظر"
+   },
+   "reviews": {
+      "message": "المراجعات"
+   },
+   "saved": {
+      "message": "تم الحفظ"
+   },
+   "selectedFontLabel": {
+      "message": "الخط المحدد المراد استخدامه."
+   },
+   "settings": {
+      "message": "إعدادات"
+   },
+   "socialSetting": {
+      "message": "اجتماعي"
+   },
+   "style": {
+      "message": "أسلوب"
+   },
+   "supportToolTip": {
+      "message": "اترك المراجعات أو اقرأها"
+   },
+   "supportToolTipTwo": {
+      "message": "هل تواجه مشكلة؟ اتصل بالدعم."
+   },
+   "supportlSetting": {
+      "message": "الدعم"
+   },
+   "title_fonts": {
+      "message": "الخطوط"
+   },
+   "websiteLabel": {
+      "message": "موقع إلكتروني"
+   },
+   "websiteTooltip": {
+      "message": "موقع الدعم."
+   },
+   "whatsNew": {
+      "message": "ما الجديد"
+   }
+}

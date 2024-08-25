@@ -1,0 +1,46 @@
+[
+    {
+        "mutation": 1,
+        "type": "attributes",
+        "target": {
+            "id": "",
+            "outerHTML": "<html lang=\"en\" style=\"--ct-R: 234; --ct-G: 147; --ct-B: 41; --ct-A: 0.3;\"><div class=\"ct-class\" mode=\"OFF\"></div><head><meta charset=\"UTF-8\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"><title>Simplehoneypage</title></head><body><h1 id=\"header\">Content for extension testing.</h1><p id=\"paragraph1\">This is the content of the page</p><div id=\"mainContent\"><p id=\"innerParagraph\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</p></div><img src=\"image.png\" alt=\"Image\" height=\"100\" width=\"100\"><script>myMutations=[];var mutationCount=0;var observer=new MutationObserver(function(e){mutationCount++;if(mutationCount===1)return;e.forEach(function(e){console.log(e);var t={};if(\"attributes\"==e.type){t.type=\"attributes\";var r={id:e.target.id,outerHTML:e.target.outerHTML};t.target=r,myMutations.push(JSON.stringify(t))}if(\"childList\"==e.type){var o=[],d=[];if(t.type=\"childList\",0<e.addedNodes.length)for(var a=0;a<e.addedNodes.length;a++){var i={id:(s=e.addedNodes[a]).id,outerHTML:s.outerHTML};o.push(i)}if(0<e.removedNodes.length)for(a=0;a<e.removedNodes.length;a++){var s;i={id:(s=e.removedNodes[a]).id,outerHTML:s.outerHTML};d.push(i)}t.target=e.target.id,t.added=o,t.removed=d,myMutations.push(JSON.stringify(t))}})}),container=document.documentElement||document.body,config={childList:!0,attributes:!0,characterData:!0,subtree:!0,attributeOldValue:!1,characterDataOldValue:!0};observer.observe(container,config)</script>\n</body></html>"
+        }
+    },
+    {
+        "mutation": 2,
+        "type": "attributes",
+        "target": {
+            "id": "",
+            "outerHTML": "<html lang=\"en\" style=\"--ct-R: 234; --ct-G: 147; --ct-B: 41; --ct-A: 0.3;\"><div class=\"ct-class\" mode=\"OFF\"></div><head><meta charset=\"UTF-8\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"><title>Simplehoneypage</title></head><body><h1 id=\"header\">Content for extension testing.</h1><p id=\"paragraph1\">This is the content of the page</p><div id=\"mainContent\"><p id=\"innerParagraph\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</p></div><img src=\"image.png\" alt=\"Image\" height=\"100\" width=\"100\"><script>myMutations=[];var mutationCount=0;var observer=new MutationObserver(function(e){mutationCount++;if(mutationCount===1)return;e.forEach(function(e){console.log(e);var t={};if(\"attributes\"==e.type){t.type=\"attributes\";var r={id:e.target.id,outerHTML:e.target.outerHTML};t.target=r,myMutations.push(JSON.stringify(t))}if(\"childList\"==e.type){var o=[],d=[];if(t.type=\"childList\",0<e.addedNodes.length)for(var a=0;a<e.addedNodes.length;a++){var i={id:(s=e.addedNodes[a]).id,outerHTML:s.outerHTML};o.push(i)}if(0<e.removedNodes.length)for(a=0;a<e.removedNodes.length;a++){var s;i={id:(s=e.removedNodes[a]).id,outerHTML:s.outerHTML};d.push(i)}t.target=e.target.id,t.added=o,t.removed=d,myMutations.push(JSON.stringify(t))}})}),container=document.documentElement||document.body,config={childList:!0,attributes:!0,characterData:!0,subtree:!0,attributeOldValue:!1,characterDataOldValue:!0};observer.observe(container,config)</script>\n</body></html>"
+        }
+    },
+    {
+        "mutation": 3,
+        "type": "attributes",
+        "target": {
+            "id": "",
+            "outerHTML": "<html lang=\"en\" style=\"--ct-R: 234; --ct-G: 147; --ct-B: 41; --ct-A: 0.3;\"><div class=\"ct-class\" mode=\"OFF\"></div><head><meta charset=\"UTF-8\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"><title>Simplehoneypage</title></head><body><h1 id=\"header\">Content for extension testing.</h1><p id=\"paragraph1\">This is the content of the page</p><div id=\"mainContent\"><p id=\"innerParagraph\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</p></div><img src=\"image.png\" alt=\"Image\" height=\"100\" width=\"100\"><script>myMutations=[];var mutationCount=0;var observer=new MutationObserver(function(e){mutationCount++;if(mutationCount===1)return;e.forEach(function(e){console.log(e);var t={};if(\"attributes\"==e.type){t.type=\"attributes\";var r={id:e.target.id,outerHTML:e.target.outerHTML};t.target=r,myMutations.push(JSON.stringify(t))}if(\"childList\"==e.type){var o=[],d=[];if(t.type=\"childList\",0<e.addedNodes.length)for(var a=0;a<e.addedNodes.length;a++){var i={id:(s=e.addedNodes[a]).id,outerHTML:s.outerHTML};o.push(i)}if(0<e.removedNodes.length)for(a=0;a<e.removedNodes.length;a++){var s;i={id:(s=e.removedNodes[a]).id,outerHTML:s.outerHTML};d.push(i)}t.target=e.target.id,t.added=o,t.removed=d,myMutations.push(JSON.stringify(t))}})}),container=document.documentElement||document.body,config={childList:!0,attributes:!0,characterData:!0,subtree:!0,attributeOldValue:!1,characterDataOldValue:!0};observer.observe(container,config)</script>\n</body></html>"
+        }
+    },
+    {
+        "mutation": 4,
+        "type": "attributes",
+        "target": {
+            "id": "",
+            "outerHTML": "<html lang=\"en\" style=\"--ct-R: 234; --ct-G: 147; --ct-B: 41; --ct-A: 0.3;\"><div class=\"ct-class\" mode=\"OFF\"></div><head><meta charset=\"UTF-8\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"><title>Simplehoneypage</title></head><body><h1 id=\"header\">Content for extension testing.</h1><p id=\"paragraph1\">This is the content of the page</p><div id=\"mainContent\"><p id=\"innerParagraph\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</p></div><img src=\"image.png\" alt=\"Image\" height=\"100\" width=\"100\"><script>myMutations=[];var mutationCount=0;var observer=new MutationObserver(function(e){mutationCount++;if(mutationCount===1)return;e.forEach(function(e){console.log(e);var t={};if(\"attributes\"==e.type){t.type=\"attributes\";var r={id:e.target.id,outerHTML:e.target.outerHTML};t.target=r,myMutations.push(JSON.stringify(t))}if(\"childList\"==e.type){var o=[],d=[];if(t.type=\"childList\",0<e.addedNodes.length)for(var a=0;a<e.addedNodes.length;a++){var i={id:(s=e.addedNodes[a]).id,outerHTML:s.outerHTML};o.push(i)}if(0<e.removedNodes.length)for(a=0;a<e.removedNodes.length;a++){var s;i={id:(s=e.removedNodes[a]).id,outerHTML:s.outerHTML};d.push(i)}t.target=e.target.id,t.added=o,t.removed=d,myMutations.push(JSON.stringify(t))}})}),container=document.documentElement||document.body,config={childList:!0,attributes:!0,characterData:!0,subtree:!0,attributeOldValue:!1,characterDataOldValue:!0};observer.observe(container,config)</script>\n</body></html>"
+        }
+    },
+    {
+        "mutation": 5,
+        "type": "childList",
+        "target": "",
+        "added": [
+            {
+                "id": "",
+                "outerHTML": "<div class=\"ct-class\" mode=\"OFF\"></div>"
+            }
+        ],
+        "removed": []
+    }
+]

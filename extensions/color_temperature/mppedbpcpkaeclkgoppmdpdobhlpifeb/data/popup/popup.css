@@ -1,0 +1,178 @@
+html {
+  border: 0;
+  margin: 0;
+  padding: 0;
+  background-color: white !important;
+}
+
+body {
+  border: 0;
+  margin: 0;
+  padding: 0;
+  width: 600px;
+  cursor: default;
+  overflow: hidden;
+  user-select: none;
+}
+
+table {
+  width: 100%;
+  border-spacing: 0;
+}
+
+body, table {
+  font-size: 12px;
+  font-family: monospace;
+}
+
+table tr td {
+  border: 0;
+  margin: 0;
+  padding: 0;
+  width: auto;
+  color: #555;
+  height: 42px;
+  line-height: 42px;
+  text-align: center;
+  vertical-align: middle;
+  transition: 300ms ease all;
+}
+
+table tr td[type='options'], 
+table tr td[type='support'], 
+table tr td[type='whitelist'] {
+  cursor: pointer;
+  background-color: #FFF;
+}
+
+table tr td[type='options']:hover, 
+table tr td[type='whitelist']:hover {
+  background-color: rgba(0,0,0,0.05);
+}
+
+table tr td[type='support'] {
+  border-top: solid 1px #d6d6d6;
+}
+
+table tr td[type='support'] div {
+  padding: 10px;
+}
+
+table tr td[class='power'] {
+  padding: 0;
+  height: 126px;
+  cursor: pointer;
+  border-bottom: solid 1px rgba(0,0,0,0.05);
+}
+
+table tr td[class='power'][state='ON'] {
+  background: url('resources/ON.png') no-repeat center center;
+  background-size: 64px;
+}
+
+table tr td[class='power'][state='OFF'] {
+  background: url('resources/OFF.png') no-repeat center center;
+  background-size: 64px;
+}
+
+.power {
+  position: relative;
+}
+
+.power:before {
+  left: 58px;
+  color: #999;
+  bottom: 10px;
+  height: 18px;
+  padding: 0 5px;
+  font-size: 12px;
+  line-height: 18px;
+  position: absolute;
+  pointer-events: none;
+  font-family: monospace;
+  content: 'Toggle ON|OFF';
+}
+
+.info {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  color: #555;
+  height: 64px;
+  font-size: 12px;
+  font-weight: 600;
+  line-height: 64px;
+  font-family: monospace;
+  background-color: #efefef4f;
+}
+
+.slider {
+  height: 48px;
+  line-height: 48px;
+  border-bottom: solid 1px rgba(0,0,0,0.05);
+}
+
+.slider input {
+  margin: 0;
+  padding: 0;
+  outline: none;
+  vertical-align: middle;
+  width: calc(100% - 128px);
+}
+
+.description {
+  padding: 0;
+  width: 82px;
+  font-size: 12px;
+  text-align: left;
+  font-weight: 600;
+  letter-spacing: 1px;
+  display: inline-block;
+  text-transform: uppercase;
+}
+
+.toolbar, .controls {
+  top: 0;
+  z-index: 11;
+  width: 48px;
+  position: absolute;
+  background-color: #fff;
+}
+
+.toolbar {
+  right: 0;
+  border-left: solid 1px rgba(0,0,0,0.05);
+}
+
+.controls {
+  left: 0;
+  border-right: solid 1px rgba(0,0,0,0.05);
+}
+
+.toolbar table, .controls table {
+  border-spacing: 0;
+  table-layout: fixed;
+}
+
+.toolbar table tr td, .controls table tr td {
+  padding: 0;
+  width: 100%;
+  color: #777;
+  height: 42px;
+  font-size: 12px;
+  cursor: pointer;
+  user-select: none;
+  line-height: 42px;
+  text-align: center;
+  font-family: arial,sans-serif;
+}
+
+.toolbar table tr td:hover, .controls table tr td:hover  {
+  background-color: rgba(0,0,0,0.05);
+}
+
+.toolbar table tr td svg, .controls table tr td svg {
+  fill: #777;
+  pointer-events: none;
+  vertical-align: middle;
+}

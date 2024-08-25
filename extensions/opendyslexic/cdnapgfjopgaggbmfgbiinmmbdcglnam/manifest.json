@@ -1,0 +1,57 @@
+{
+    "action": {
+        "default_icon": "assets/images/icons/icon-128.png",
+        "default_popup": "index.html"
+    },
+    "background": {
+        "service_worker": "scripts/background.js"
+    },
+    "content_scripts": [
+        {
+            "exclude_globs": [
+                "*://docs.google.com/*"
+            ],
+            "js": [
+                "scripts/content.js",
+                "optionsinject.js"
+            ],
+            "matches": [
+                "http://*/*",
+                "https://*/*",
+                "file:///*/*"
+            ]
+        }
+    ],
+    "default_locale": "en",
+    "description": "__MSG_appDescription__",
+    "homepage_url": "https://opendyslexic.org",
+    "icons": {
+        "128": "assets/images/icons/icon-128.png",
+        "16": "assets/images/icons/icon-16.png",
+        "48": "assets/images/icons/icon-48.png"
+    },
+    "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCpOrsXuotaKiGCCvLel7DxxND/RstEP0Nmj/78KEtBsgvHLO32KPQ1adiGOw8EEwkIhxrFgN05S5pwEPKMhcoX2iFWmv3bXHd1vlpmDCaR2+Ag1ZoPOVWGfDhC5oLS9TOZf8yW7uHANe379NNWFHS4NxDRZy95g6fHA+9s4QGzZwIDAQAB",
+    "manifest_version": 3,
+    "name": "__MSG_appName__",
+    "offline_enabled": true,
+    "permissions": [
+        "activeTab",
+        "storage"
+    ],
+    "update_url": "https://clients2.google.com/service/update2/crx",
+    "version": "40.1.0",
+    "web_accessible_resources": [
+        {
+            "matches": [
+                "https://*/*"
+            ],
+            "resources": [
+                "assets/fonts/opendyslexic/bold.otf",
+                "assets/fonts/opendyslexic/bold-italic.otf",
+                "assets/fonts/opendyslexic/italic.otf",
+                "assets/fonts/opendyslexic/regular.otf",
+                "assets/styles/core/opendyslexic.css"
+            ]
+        }
+    ]
+}

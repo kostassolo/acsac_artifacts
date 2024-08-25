@@ -1,0 +1,139 @@
+{
+   "OpenDyslexic": {
+      "message": "Fedezze fel az OpenDyslexic alkalmazást"
+   },
+   "appDescription": {
+      "description": "Oldalak formázása az OpenDyslexic betűtípus és az alacsony kontrasztú súgó segítségével",
+      "message": "Oldalak formázása az OpenDyslexic betűtípus és az alacsony kontrasztú súgó segítségével"
+   },
+   "appName": {
+      "description": "Oldalak formázása az OpenDyslexic betűtípus és az alacsony kontrasztú súgó segítségével.",
+      "message": "OpenDyslexic for Chrome"
+   },
+   "appNameEdge": {
+      "description": "Format pages using the OpenDyslexic font and low contrast help.",
+      "message": "OpenDyslexic for Edge"
+   },
+   "appNameFirefox": {
+      "description": "Format pages using the OpenDyslexic font and low contrast help.",
+      "message": "OpenDyslexic for Firefox"
+   },
+   "appTitle": {
+      "description": "Oldalak formázása az OpenDyslexic betűtípus és az alacsony kontrasztú súgó segítségével.",
+      "message": "OpenDyslexic"
+   },
+   "backgroundColorLabel": {
+      "message": "Háttér"
+   },
+   "backgroundColorTooltip": {
+      "message": "Változtassa meg a háttér színét."
+   },
+   "codeSetting": {
+      "message": "Forráskód"
+   },
+   "comingSoon": {
+      "message": "Hamarosan"
+   },
+   "enableFontLabel": {
+      "message": "Engedélyezze"
+   },
+   "featureTint": {
+      "message": "Engedélyezze az átfedést"
+   },
+   "firefox": {
+      "message": "Firefox verzió"
+   },
+   "firefoxText": {
+      "message": "Firefoxot használ? Töltse le még ma."
+   },
+   "followAbbie": {
+      "message": "Támogatja az OpenDyslexic alkalmazást"
+   },
+   "followAbbieToolTip": {
+      "message": "Támogassa az OpenDyslexic készítőjét."
+   },
+   "followDyslexic": {
+      "message": "Kövesse az OpenDyslexic alkalmazást"
+   },
+   "followDyslexicToolTip": {
+      "message": "Kövesse az OpenDyslexic alkalmazást a Twitteren"
+   },
+   "followRobertJames": {
+      "message": "Kövesse Robert James-t"
+   },
+   "followRobertJamesToolTip": {
+      "message": "Kövesse az alkalmazás karbantartóját."
+   },
+   "fontColorLabel": {
+      "message": "Betűtípus"
+   },
+   "fontColorSetting": {
+      "message": "Szín"
+   },
+   "fontColorTooltip": {
+      "message": "Változtassa meg a betű színét."
+   },
+   "googleDocsLabel": {
+      "message": "Google Dokumentumok"
+   },
+   "googleDocsTooltip": {
+      "message": "Engedélyezze a Google Dokumentumok teljes támogatását."
+   },
+   "helperbird": {
+      "message": "Fedezze fel a Helperbird-et"
+   },
+   "off": {
+      "message": "Ki"
+   },
+   "on": {
+      "message": "Tovább"
+   },
+   "options": {
+      "message": "Opciók"
+   },
+   "personalSetting": {
+      "message": "Személyes"
+   },
+   "review": {
+      "message": "Felülvizsgálat"
+   },
+   "reviews": {
+      "message": "Vélemények"
+   },
+   "saved": {
+      "message": "Mentett"
+   },
+   "selectedFontLabel": {
+      "message": "Kiválasztott betűtípus."
+   },
+   "settings": {
+      "message": "Beállítások"
+   },
+   "socialSetting": {
+      "message": "Társadalmi"
+   },
+   "style": {
+      "message": "Stílus"
+   },
+   "supportToolTip": {
+      "message": "Hagyjon vagy olvassa el az értékeléseket"
+   },
+   "supportToolTipTwo": {
+      "message": "Van valami probléma? Vegye fel a kapcsolatot az ügyfélszolgálattal."
+   },
+   "supportlSetting": {
+      "message": "Támogatás"
+   },
+   "title_fonts": {
+      "message": "Betűtípusok"
+   },
+   "websiteLabel": {
+      "message": "Weboldal"
+   },
+   "websiteTooltip": {
+      "message": "Támogatási webhely."
+   },
+   "whatsNew": {
+      "message": "Mi az új"
+   }
+}

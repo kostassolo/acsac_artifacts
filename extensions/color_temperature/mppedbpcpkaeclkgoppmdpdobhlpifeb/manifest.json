@@ -1,0 +1,67 @@
+{
+   "action": {
+      "default_icon": {
+         "16": "data/icons/16.png",
+         "32": "data/icons/32.png",
+         "48": "data/icons/48.png",
+         "64": "data/icons/64.png"
+      },
+      "default_popup": "data/popup/popup.html",
+      "default_title": "Color Temperature (Change Lux)"
+   },
+   "background": {
+      "service_worker": "background.js"
+   },
+   "commands": {
+      "add": {
+         "description": "Add the active tab to whitelist",
+         "suggested_key": {
+            "default": "Ctrl+Shift+U",
+            "mac": "Command+Shift+U"
+         }
+      },
+      "remove": {
+         "description": "Remove the active tab from whitelist",
+         "suggested_key": {
+            "default": "Ctrl+Shift+Z",
+            "mac": "Command+Shift+Z"
+         }
+      },
+      "toggle": {
+         "description": "Toggle color temperature (ON | OFF)",
+         "suggested_key": {
+            "default": "Ctrl+Shift+Y",
+            "mac": "Command+Shift+Y"
+         }
+      }
+   },
+   "content_scripts": [ {
+      "all_frames": false,
+      "css": [ "data/content_script/inject.css" ],
+      "js": [ "data/content_script/inject.js"],
+      "match_about_blank": true,
+      "matches": [ "*://*/*" ],
+      "run_at": "document_start"
+   } ],
+   "description": "A lite and easy-to-use addon that adjusts the screen color to match the environment!",
+   "homepage_url": "https://mybrowseraddon.com/screen-color-temperature.html",
+   "host_permissions": [ "*://*/*" ],
+   "icons": {
+      "128": "data/icons/128.png",
+      "16": "data/icons/16.png",
+      "32": "data/icons/32.png",
+      "48": "data/icons/48.png",
+      "64": "data/icons/64.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhThj64RtpiZZGmelcDOBYW5uOrWCAEilebqrf++/mlVmS26nvZizSKCqY6Jp9GylIm/NoBwIoMz7wOx7+s1Kk6/QdXSudty35SKt774PkJU99jEnHwHrJQYLKDeW7O9dUxCp7GICZ2Sk+UxZX+mQ1j4Bllw5siN+0g9wAiiaReSDBZ671foh3nJVtDuv3NuV0QZvJQMuBl170NNqt/3sVGLIDeP2pxUXYMN7bEq8IXaUKD2VZ3H6Ki71BlZ97aZh9ajX5qTmfsYmeX4O1d8gup+rimo7+08w8LFm+F2jBp/dvDbuvkoget8oSJ8p3liG2j74Z5wUA2Z2KZ/zWU4NBwIDAQAB",
+   "manifest_version": 3,
+   "name": "Color Temperature (Change Lux)",
+   "offline_enabled": true,
+   "options_ui": {
+      "open_in_tab": true,
+      "page": "data/options/options.html"
+   },
+   "permissions": [ "storage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.1.7"
+}

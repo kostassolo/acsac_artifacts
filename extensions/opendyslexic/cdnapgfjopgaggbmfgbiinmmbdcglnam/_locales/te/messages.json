@@ -1,0 +1,139 @@
+{
+   "OpenDyslexic": {
+      "message": "ఓపెన్‌డిస్లెక్సిక్‌ను కనుగొనండి"
+   },
+   "appDescription": {
+      "description": "OpenDyslexic ఫాంట్ మరియు తక్కువ కాంట్రాస్ట్ సహాయాన్ని ఉపయోగించి పేజీలను ఫార్మాట్ చేయండి",
+      "message": "OpenDyslexic ఫాంట్ మరియు తక్కువ కాంట్రాస్ట్ సహాయాన్ని ఉపయోగించి పేజీలను ఫార్మాట్ చేయండి"
+   },
+   "appName": {
+      "description": "OpenDyslexic ఫాంట్ మరియు తక్కువ కాంట్రాస్ట్ సహాయాన్ని ఉపయోగించి పేజీలను ఫార్మాట్ చేయండి.",
+      "message": "Chrome కోసం ఓపెన్ డైస్లెక్సిక్"
+   },
+   "appNameEdge": {
+      "description": "Format pages using the OpenDyslexic font and low contrast help.",
+      "message": "OpenDyslexic for Edge"
+   },
+   "appNameFirefox": {
+      "description": "Format pages using the OpenDyslexic font and low contrast help.",
+      "message": "OpenDyslexic for Firefox"
+   },
+   "appTitle": {
+      "description": "OpenDyslexic ఫాంట్ మరియు తక్కువ కాంట్రాస్ట్ సహాయాన్ని ఉపయోగించి పేజీలను ఫార్మాట్ చేయండి.",
+      "message": "ఓపెన్ డైస్లెక్సిక్"
+   },
+   "backgroundColorLabel": {
+      "message": "నేపథ్య"
+   },
+   "backgroundColorTooltip": {
+      "message": "నేపథ్య రంగును మార్చండి."
+   },
+   "codeSetting": {
+      "message": "మూల కోడ్"
+   },
+   "comingSoon": {
+      "message": "త్వరలో"
+   },
+   "enableFontLabel": {
+      "message": "ప్రారంభించండి"
+   },
+   "featureTint": {
+      "message": "అతివ్యాప్తిని ప్రారంభించండి"
+   },
+   "firefox": {
+      "message": "ఫైర్‌ఫాక్స్ వెర్షన్"
+   },
+   "firefoxText": {
+      "message": "ఫైర్‌ఫాక్స్ ఉపయోగించాలా? ఈ రోజు డౌన్‌లోడ్ చేసుకోండి."
+   },
+   "followAbbie": {
+      "message": "ఓపెన్‌డిస్లెక్సిక్‌కు మద్దతు ఇవ్వండి"
+   },
+   "followAbbieToolTip": {
+      "message": "OpenDyslexic సృష్టికర్తకు మద్దతు ఇవ్వండి."
+   },
+   "followDyslexic": {
+      "message": "ఓపెన్‌డిస్లెక్సిక్‌ను అనుసరించండి"
+   },
+   "followDyslexicToolTip": {
+      "message": "ట్విట్టర్‌లో ఓపెన్‌డిస్లెక్సిక్‌ను అనుసరించండి"
+   },
+   "followRobertJames": {
+      "message": "రాబర్ట్ జేమ్స్ ను అనుసరించండి"
+   },
+   "followRobertJamesToolTip": {
+      "message": "ఈ అనువర్తనం యొక్క నిర్వహణను అనుసరించండి."
+   },
+   "fontColorLabel": {
+      "message": "ఫాంట్"
+   },
+   "fontColorSetting": {
+      "message": "రంగు"
+   },
+   "fontColorTooltip": {
+      "message": "ఫాంట్ రంగును మార్చండి."
+   },
+   "googleDocsLabel": {
+      "message": "Google డాక్స్"
+   },
+   "googleDocsTooltip": {
+      "message": "పూర్తి Google డాక్స్ మద్దతును ప్రారంభించండి."
+   },
+   "helperbird": {
+      "message": "హెల్పర్బర్డ్ను కనుగొనండి"
+   },
+   "off": {
+      "message": "ఆఫ్"
+   },
+   "on": {
+      "message": "పై"
+   },
+   "options": {
+      "message": "ఎంపికలు"
+   },
+   "personalSetting": {
+      "message": "వ్యక్తిగత"
+   },
+   "review": {
+      "message": "సమీక్ష"
+   },
+   "reviews": {
+      "message": "సమీక్షలు"
+   },
+   "saved": {
+      "message": "సేవ్ చేయబడింది"
+   },
+   "selectedFontLabel": {
+      "message": "ఉపయోగించడానికి ఎంచుకున్న ఫాంట్."
+   },
+   "settings": {
+      "message": "సెట్టింగులు"
+   },
+   "socialSetting": {
+      "message": "సామాజిక"
+   },
+   "style": {
+      "message": "శైలి"
+   },
+   "supportToolTip": {
+      "message": "సమీక్షలను వదిలివేయండి లేదా చదవండి"
+   },
+   "supportToolTipTwo": {
+      "message": "సమస్య ఉందా? సంప్రదింపు మద్దతు."
+   },
+   "supportlSetting": {
+      "message": "మద్దతు"
+   },
+   "title_fonts": {
+      "message": "ఫాంట్లు"
+   },
+   "websiteLabel": {
+      "message": "వెబ్‌సైట్"
+   },
+   "websiteTooltip": {
+      "message": "మద్దతు వెబ్‌సైట్."
+   },
+   "whatsNew": {
+      "message": "కొత్తది ఏమిటి"
+   }
+}

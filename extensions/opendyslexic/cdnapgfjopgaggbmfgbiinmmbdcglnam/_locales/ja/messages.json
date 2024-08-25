@@ -1,0 +1,139 @@
+{
+   "OpenDyslexic": {
+      "message": "OpenDyslexicを発見する"
+   },
+   "appDescription": {
+      "description": "OpenDyslexicフォントと低コントラストのヘルプを使用してページをフォーマットする",
+      "message": "OpenDyslexicフォントと低コントラストのヘルプを使用してページをフォーマットする"
+   },
+   "appName": {
+      "description": "OpenDyslexicフォントと低コントラストのヘルプを使用してページをフォーマットします。",
+      "message": "Chrome用OpenDyslexic"
+   },
+   "appNameEdge": {
+      "description": "Format pages using the OpenDyslexic font and low contrast help.",
+      "message": "OpenDyslexic for Edge"
+   },
+   "appNameFirefox": {
+      "description": "Format pages using the OpenDyslexic font and low contrast help.",
+      "message": "OpenDyslexic for Firefox"
+   },
+   "appTitle": {
+      "description": "OpenDyslexicフォントと低コントラストのヘルプを使用してページをフォーマットします。",
+      "message": "OpenDyslexic"
+   },
+   "backgroundColorLabel": {
+      "message": "バックグラウンド"
+   },
+   "backgroundColorTooltip": {
+      "message": "背景色を変更します。"
+   },
+   "codeSetting": {
+      "message": "ソースコード"
+   },
+   "comingSoon": {
+      "message": "近日公開"
+   },
+   "enableFontLabel": {
+      "message": "有効にする"
+   },
+   "featureTint": {
+      "message": "オーバーレイを有効にする"
+   },
+   "firefox": {
+      "message": "Firefoxバージョン"
+   },
+   "firefoxText": {
+      "message": "Firefoxを使用しますか？今すぐダウンロードしてください。"
+   },
+   "followAbbie": {
+      "message": "OpenDyslexicをサポートする"
+   },
+   "followAbbieToolTip": {
+      "message": "OpenDyslexicの作成者をサポートします。"
+   },
+   "followDyslexic": {
+      "message": "OpenDyslexicをフォローする"
+   },
+   "followDyslexicToolTip": {
+      "message": "TwitterでOpenDyslexicをフォローする"
+   },
+   "followRobertJames": {
+      "message": "ロバートジェームスに従ってください"
+   },
+   "followRobertJamesToolTip": {
+      "message": "このアプリのメンテナに従ってください。"
+   },
+   "fontColorLabel": {
+      "message": "フォント"
+   },
+   "fontColorSetting": {
+      "message": "色"
+   },
+   "fontColorTooltip": {
+      "message": "フォントの色を変更します。"
+   },
+   "googleDocsLabel": {
+      "message": "Googleドキュメント"
+   },
+   "googleDocsTooltip": {
+      "message": "Googleドキュメントの完全サポートを有効にします。"
+   },
+   "helperbird": {
+      "message": "Helperbirdを発見する"
+   },
+   "off": {
+      "message": "オフ"
+   },
+   "on": {
+      "message": "オン"
+   },
+   "options": {
+      "message": "オプション"
+   },
+   "personalSetting": {
+      "message": "個人"
+   },
+   "review": {
+      "message": "レビュー"
+   },
+   "reviews": {
+      "message": "レビュー"
+   },
+   "saved": {
+      "message": "保存しました"
+   },
+   "selectedFontLabel": {
+      "message": "使用するフォントを選択しました。"
+   },
+   "settings": {
+      "message": "設定"
+   },
+   "socialSetting": {
+      "message": "ソーシャル"
+   },
+   "style": {
+      "message": "スタイル"
+   },
+   "supportToolTip": {
+      "message": "レビューを残すか読む"
+   },
+   "supportToolTipTwo": {
+      "message": "問題がありますか？サポート問い合わせ先。"
+   },
+   "supportlSetting": {
+      "message": "サポート"
+   },
+   "title_fonts": {
+      "message": "フォント"
+   },
+   "websiteLabel": {
+      "message": "ウェブサイト"
+   },
+   "websiteTooltip": {
+      "message": "サポートWebサイト。"
+   },
+   "whatsNew": {
+      "message": "新機能"
+   }
+}

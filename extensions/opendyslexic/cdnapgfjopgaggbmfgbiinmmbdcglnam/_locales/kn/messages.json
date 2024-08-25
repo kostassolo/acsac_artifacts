@@ -1,0 +1,139 @@
+{
+   "OpenDyslexic": {
+      "message": "ಓಪನ್ ಡಿಸ್ಲೆಕ್ಸಿಕ್ ಅನ್ನು ಅನ್ವೇಷಿಸಿ"
+   },
+   "appDescription": {
+      "description": "ಓಪನ್ ಡಿಸ್ಲೆಕ್ಸಿಕ್ ಫಾಂಟ್ ಮತ್ತು ಕಡಿಮೆ ಕಾಂಟ್ರಾಸ್ಟ್ ಸಹಾಯವನ್ನು ಬಳಸಿಕೊಂಡು ಪುಟಗಳನ್ನು ಫಾರ್ಮ್ಯಾಟ್ ಮಾಡಿ",
+      "message": "ಓಪನ್ ಡಿಸ್ಲೆಕ್ಸಿಕ್ ಫಾಂಟ್ ಮತ್ತು ಕಡಿಮೆ ಕಾಂಟ್ರಾಸ್ಟ್ ಸಹಾಯವನ್ನು ಬಳಸಿಕೊಂಡು ಪುಟಗಳನ್ನು ಫಾರ್ಮ್ಯಾಟ್ ಮಾಡಿ"
+   },
+   "appName": {
+      "description": "ಓಪನ್ ಡಿಸ್ಲೆಕ್ಸಿಕ್ ಫಾಂಟ್ ಮತ್ತು ಕಡಿಮೆ ಕಾಂಟ್ರಾಸ್ಟ್ ಸಹಾಯವನ್ನು ಬಳಸಿಕೊಂಡು ಪುಟಗಳನ್ನು ಫಾರ್ಮ್ಯಾಟ್ ಮಾಡಿ.",
+      "message": "Chrome ಗಾಗಿ ಓಪನ್ ಡಿಸ್ಲೆಕ್ಸಿಕ್"
+   },
+   "appNameEdge": {
+      "description": "Format pages using the OpenDyslexic font and low contrast help.",
+      "message": "OpenDyslexic for Edge"
+   },
+   "appNameFirefox": {
+      "description": "Format pages using the OpenDyslexic font and low contrast help.",
+      "message": "OpenDyslexic for Firefox"
+   },
+   "appTitle": {
+      "description": "ಓಪನ್ ಡಿಸ್ಲೆಕ್ಸಿಕ್ ಫಾಂಟ್ ಮತ್ತು ಕಡಿಮೆ ಕಾಂಟ್ರಾಸ್ಟ್ ಸಹಾಯವನ್ನು ಬಳಸಿಕೊಂಡು ಪುಟಗಳನ್ನು ಫಾರ್ಮ್ಯಾಟ್ ಮಾಡಿ.",
+      "message": "ಓಪನ್ ಡಿಸ್ಲೆಕ್ಸಿಕ್"
+   },
+   "backgroundColorLabel": {
+      "message": "ಹಿನ್ನೆಲೆ"
+   },
+   "backgroundColorTooltip": {
+      "message": "ಹಿನ್ನೆಲೆ ಬಣ್ಣವನ್ನು ಬದಲಾಯಿಸಿ."
+   },
+   "codeSetting": {
+      "message": "ಮೂಲ ಕೋಡ್"
+   },
+   "comingSoon": {
+      "message": "ಶೀಘ್ರದಲ್ಲೇ ಬರಲಿದೆ"
+   },
+   "enableFontLabel": {
+      "message": "ಸಕ್ರಿಯಗೊಳಿಸಿ"
+   },
+   "featureTint": {
+      "message": "ಓವರ್‌ಲೇ ಸಕ್ರಿಯಗೊಳಿಸಿ"
+   },
+   "firefox": {
+      "message": "ಫೈರ್ಫಾಕ್ಸ್ ಆವೃತ್ತಿ"
+   },
+   "firefoxText": {
+      "message": "ಫೈರ್‌ಫಾಕ್ಸ್ ಬಳಸುವುದೇ? ಇಂದು ಅದನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ."
+   },
+   "followAbbie": {
+      "message": "ಓಪನ್ ಡಿಸ್ಲೆಕ್ಸಿಕ್ ಅನ್ನು ಬೆಂಬಲಿಸಿ"
+   },
+   "followAbbieToolTip": {
+      "message": "ಓಪನ್ ಡಿಸ್ಲೆಕ್ಸಿಕ್ ಸೃಷ್ಟಿಕರ್ತನನ್ನು ಬೆಂಬಲಿಸಿ."
+   },
+   "followDyslexic": {
+      "message": "ಓಪನ್ ಡಿಸ್ಲೆಕ್ಸಿಕ್ ಅನ್ನು ಅನುಸರಿಸಿ"
+   },
+   "followDyslexicToolTip": {
+      "message": "ಟ್ವಿಟ್ಟರ್ನಲ್ಲಿ ಓಪನ್ ಡಿಸ್ಲೆಕ್ಸಿಕ್ ಅನ್ನು ಅನುಸರಿಸಿ"
+   },
+   "followRobertJames": {
+      "message": "ರಾಬರ್ಟ್ ಜೇಮ್ಸ್ ಅವರನ್ನು ಅನುಸರಿಸಿ"
+   },
+   "followRobertJamesToolTip": {
+      "message": "ಈ ಅಪ್ಲಿಕೇಶನ್‌ನ ನಿರ್ವಹಣೆಯನ್ನು ಅನುಸರಿಸಿ."
+   },
+   "fontColorLabel": {
+      "message": "ಫಾಂಟ್"
+   },
+   "fontColorSetting": {
+      "message": "ಬಣ್ಣ"
+   },
+   "fontColorTooltip": {
+      "message": "ಫಾಂಟ್ ಬಣ್ಣವನ್ನು ಬದಲಾಯಿಸಿ."
+   },
+   "googleDocsLabel": {
+      "message": "Google ಡಾಕ್ಸ್"
+   },
+   "googleDocsTooltip": {
+      "message": "ಪೂರ್ಣ Google ಡಾಕ್ಸ್ ಬೆಂಬಲವನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ."
+   },
+   "helperbird": {
+      "message": "ಸಹಾಯವಾಣಿ ಅನ್ವೇಷಿಸಿ"
+   },
+   "off": {
+      "message": "ಆರಿಸಿ"
+   },
+   "on": {
+      "message": "ಆನ್"
+   },
+   "options": {
+      "message": "ಆಯ್ಕೆಗಳು"
+   },
+   "personalSetting": {
+      "message": "ವೈಯಕ್ತಿಕ"
+   },
+   "review": {
+      "message": "ಸಮೀಕ್ಷೆ"
+   },
+   "reviews": {
+      "message": "ವಿಮರ್ಶೆಗಳು"
+   },
+   "saved": {
+      "message": "ಉಳಿಸಲಾಗಿದೆ"
+   },
+   "selectedFontLabel": {
+      "message": "ಬಳಸಲು ಫಾಂಟ್ ಆಯ್ಕೆಮಾಡಲಾಗಿದೆ."
+   },
+   "settings": {
+      "message": "ಸಂಯೋಜನೆಗಳು"
+   },
+   "socialSetting": {
+      "message": "ಸಾಮಾಜಿಕ"
+   },
+   "style": {
+      "message": "ಶೈಲಿ"
+   },
+   "supportToolTip": {
+      "message": "ವಿಮರ್ಶೆಗಳನ್ನು ಬಿಡಿ ಅಥವಾ ಓದಿ"
+   },
+   "supportToolTipTwo": {
+      "message": "ಸಮಸ್ಯೆ ಇದೆಯೇ? ಸಂಪರ್ಕ ಬೆಂಬಲ."
+   },
+   "supportlSetting": {
+      "message": "ಬೆಂಬಲ"
+   },
+   "title_fonts": {
+      "message": "ಫಾಂಟ್‌ಗಳು"
+   },
+   "websiteLabel": {
+      "message": "ಜಾಲತಾಣ"
+   },
+   "websiteTooltip": {
+      "message": "ಬೆಂಬಲ ವೆಬ್‌ಸೈಟ್."
+   },
+   "whatsNew": {
+      "message": "ಹೊಸತೇನಿದೆ"
+   }
+}

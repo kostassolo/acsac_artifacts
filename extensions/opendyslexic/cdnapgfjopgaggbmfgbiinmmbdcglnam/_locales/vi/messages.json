@@ -1,0 +1,139 @@
+{
+   "OpenDyslexic": {
+      "message": "Khám phá OpenDyslexic"
+   },
+   "appDescription": {
+      "description": "Định dạng trang bằng cách sử dụng phông chữ OpenDyslexic và trợ giúp độ tương phản thấp",
+      "message": "Định dạng trang bằng cách sử dụng phông chữ OpenDyslexic và trợ giúp độ tương phản thấp"
+   },
+   "appName": {
+      "description": "Định dạng trang bằng cách sử dụng phông chữ OpenDyslexic và trợ giúp độ tương phản thấp.",
+      "message": "OpenDyslexic dành cho Chrome"
+   },
+   "appNameEdge": {
+      "description": "Format pages using the OpenDyslexic font and low contrast help.",
+      "message": "OpenDyslexic for Edge"
+   },
+   "appNameFirefox": {
+      "description": "Format pages using the OpenDyslexic font and low contrast help.",
+      "message": "OpenDyslexic for Firefox"
+   },
+   "appTitle": {
+      "description": "Định dạng trang bằng cách sử dụng phông chữ OpenDyslexic và trợ giúp độ tương phản thấp.",
+      "message": "OpenDyslexic"
+   },
+   "backgroundColorLabel": {
+      "message": "Lý lịch"
+   },
+   "backgroundColorTooltip": {
+      "message": "Thay đổi màu nền."
+   },
+   "codeSetting": {
+      "message": "Mã nguồn"
+   },
+   "comingSoon": {
+      "message": "Sắp có"
+   },
+   "enableFontLabel": {
+      "message": "Kích hoạt"
+   },
+   "featureTint": {
+      "message": "Bật lớp phủ"
+   },
+   "firefox": {
+      "message": "Phiên bản Firefox"
+   },
+   "firefoxText": {
+      "message": "Sử dụng Firefox? Tải xuống ngay hôm nay."
+   },
+   "followAbbie": {
+      "message": "Hỗ trợ OpenDyslexic"
+   },
+   "followAbbieToolTip": {
+      "message": "Hỗ trợ người tạo OpenDyslexic."
+   },
+   "followDyslexic": {
+      "message": "Theo OpenDyslexic"
+   },
+   "followDyslexicToolTip": {
+      "message": "Theo dõi OpenDyslexic trên Twitter"
+   },
+   "followRobertJames": {
+      "message": "Theo Robert James"
+   },
+   "followRobertJamesToolTip": {
+      "message": "Theo dõi người bảo trì ứng dụng này."
+   },
+   "fontColorLabel": {
+      "message": "Nét chữ"
+   },
+   "fontColorSetting": {
+      "message": "Màu sắc"
+   },
+   "fontColorTooltip": {
+      "message": "Thay đổi màu phông chữ."
+   },
+   "googleDocsLabel": {
+      "message": "Google Tài liệu"
+   },
+   "googleDocsTooltip": {
+      "message": "Bật hỗ trợ đầy đủ của Google Tài liệu."
+   },
+   "helperbird": {
+      "message": "Khám phá Helperbird"
+   },
+   "off": {
+      "message": "Tắt"
+   },
+   "on": {
+      "message": "Trên"
+   },
+   "options": {
+      "message": "Tùy chọn"
+   },
+   "personalSetting": {
+      "message": "Cá nhân"
+   },
+   "review": {
+      "message": "Ôn tập"
+   },
+   "reviews": {
+      "message": "Nhận xét"
+   },
+   "saved": {
+      "message": "Đã lưu"
+   },
+   "selectedFontLabel": {
+      "message": "Đã chọn Phông chữ để sử dụng."
+   },
+   "settings": {
+      "message": "Cài đặt"
+   },
+   "socialSetting": {
+      "message": "Xã hội"
+   },
+   "style": {
+      "message": "Phong cách"
+   },
+   "supportToolTip": {
+      "message": "Để lại hoặc đọc các bài đánh giá"
+   },
+   "supportToolTipTwo": {
+      "message": "Bạn gặp sự cố? Liên hệ hỗ trợ."
+   },
+   "supportlSetting": {
+      "message": "Ủng hộ"
+   },
+   "title_fonts": {
+      "message": "Phông chữ"
+   },
+   "websiteLabel": {
+      "message": "Trang mạng"
+   },
+   "websiteTooltip": {
+      "message": "Trang web hỗ trợ."
+   },
+   "whatsNew": {
+      "message": "Có gì mới"
+   }
+}

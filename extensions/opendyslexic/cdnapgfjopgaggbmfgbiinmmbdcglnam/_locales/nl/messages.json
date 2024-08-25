@@ -1,0 +1,139 @@
+{
+   "OpenDyslexic": {
+      "message": "Ontdek OpenDyslectisch"
+   },
+   "appDescription": {
+      "description": "Pagina's opmaken met behulp van het OpenDyslexic-lettertype en hulp bij laag contrast",
+      "message": "Pagina's opmaken met behulp van het OpenDyslexic-lettertype en hulp bij laag contrast"
+   },
+   "appName": {
+      "description": "Maak pagina's op met behulp van het OpenDyslexic-lettertype en hulp bij laag contrast.",
+      "message": "OpenDyslexic voor Chrome"
+   },
+   "appNameEdge": {
+      "description": "Format pages using the OpenDyslexic font and low contrast help.",
+      "message": "OpenDyslexic for Edge"
+   },
+   "appNameFirefox": {
+      "description": "Format pages using the OpenDyslexic font and low contrast help.",
+      "message": "OpenDyslexic for Firefox"
+   },
+   "appTitle": {
+      "description": "Maak pagina's op met behulp van het OpenDyslexic-lettertype en hulp bij laag contrast.",
+      "message": "OpenDyslectisch"
+   },
+   "backgroundColorLabel": {
+      "message": "Achtergrond"
+   },
+   "backgroundColorTooltip": {
+      "message": "Verander de achtergrondkleur."
+   },
+   "codeSetting": {
+      "message": "Broncode"
+   },
+   "comingSoon": {
+      "message": "Binnenkort beschikbaar"
+   },
+   "enableFontLabel": {
+      "message": "Inschakelen"
+   },
+   "featureTint": {
+      "message": "Overlay inschakelen"
+   },
+   "firefox": {
+      "message": "Firefox-versie"
+   },
+   "firefoxText": {
+      "message": "Firefox gebruiken? Download het vandaag nog."
+   },
+   "followAbbie": {
+      "message": "Ondersteuning OpenDyslectisch"
+   },
+   "followAbbieToolTip": {
+      "message": "Steun de maker van OpenDyslexic."
+   },
+   "followDyslexic": {
+      "message": "Volg OpenDyslectisch"
+   },
+   "followDyslexicToolTip": {
+      "message": "Volg OpenDyslexic op Twitter"
+   },
+   "followRobertJames": {
+      "message": "Volg Robert James"
+   },
+   "followRobertJamesToolTip": {
+      "message": "Volg de beheerder van deze app."
+   },
+   "fontColorLabel": {
+      "message": "Lettertype"
+   },
+   "fontColorSetting": {
+      "message": "Kleur"
+   },
+   "fontColorTooltip": {
+      "message": "Verander de letterkleur."
+   },
+   "googleDocsLabel": {
+      "message": "Google documenten"
+   },
+   "googleDocsTooltip": {
+      "message": "Schakel volledige ondersteuning voor Google Documenten in."
+   },
+   "helperbird": {
+      "message": "Ontdek Helperbird"
+   },
+   "off": {
+      "message": "Uit"
+   },
+   "on": {
+      "message": "Aan"
+   },
+   "options": {
+      "message": "Opties"
+   },
+   "personalSetting": {
+      "message": "persoonlijk"
+   },
+   "review": {
+      "message": "Recensie"
+   },
+   "reviews": {
+      "message": "Beoordelingen"
+   },
+   "saved": {
+      "message": "Opgeslagen"
+   },
+   "selectedFontLabel": {
+      "message": "Geselecteerd lettertype om te gebruiken."
+   },
+   "settings": {
+      "message": "Instellingen"
+   },
+   "socialSetting": {
+      "message": "sociaal"
+   },
+   "style": {
+      "message": "Stijl"
+   },
+   "supportToolTip": {
+      "message": "Recensies achterlaten of lezen"
+   },
+   "supportToolTipTwo": {
+      "message": "Heeft u een probleem? Contact opnemen met ondersteuning."
+   },
+   "supportlSetting": {
+      "message": "Ondersteuning"
+   },
+   "title_fonts": {
+      "message": "Lettertypen"
+   },
+   "websiteLabel": {
+      "message": "Website"
+   },
+   "websiteTooltip": {
+      "message": "Ondersteuning website."
+   },
+   "whatsNew": {
+      "message": "Wat is er nieuw?"
+   }
+}

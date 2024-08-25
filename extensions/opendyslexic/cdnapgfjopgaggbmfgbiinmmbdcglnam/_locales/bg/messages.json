@@ -1,0 +1,139 @@
+{
+   "OpenDyslexic": {
+      "message": "Открийте OpenDyslexic"
+   },
+   "appDescription": {
+      "description": "Форматирайте страници с помощта на шрифта OpenDyslexic и помощ с нисък контраст",
+      "message": "Форматирайте страници с помощта на шрифта OpenDyslexic и помощ с нисък контраст"
+   },
+   "appName": {
+      "description": "Форматирайте страници с помощта на шрифта OpenDyslexic и помощ с нисък контраст.",
+      "message": "OpenDyslexic за Chrome"
+   },
+   "appNameEdge": {
+      "description": "Format pages using the OpenDyslexic font and low contrast help.",
+      "message": "OpenDyslexic for Edge"
+   },
+   "appNameFirefox": {
+      "description": "Format pages using the OpenDyslexic font and low contrast help.",
+      "message": "OpenDyslexic for Firefox"
+   },
+   "appTitle": {
+      "description": "Форматирайте страници с помощта на шрифта OpenDyslexic и помощ с нисък контраст.",
+      "message": "OpenDyslexic"
+   },
+   "backgroundColorLabel": {
+      "message": "Заден план"
+   },
+   "backgroundColorTooltip": {
+      "message": "Променете цвета на фона."
+   },
+   "codeSetting": {
+      "message": "Програмен код"
+   },
+   "comingSoon": {
+      "message": "Очаквайте скоро"
+   },
+   "enableFontLabel": {
+      "message": "Активиране"
+   },
+   "featureTint": {
+      "message": "Активиране на наслагването"
+   },
+   "firefox": {
+      "message": "Версия на Firefox"
+   },
+   "firefoxText": {
+      "message": "Да използвате Firefox? Изтеглете го днес."
+   },
+   "followAbbie": {
+      "message": "Поддръжка на OpenDyslexic"
+   },
+   "followAbbieToolTip": {
+      "message": "Подкрепете създателя на OpenDyslexic."
+   },
+   "followDyslexic": {
+      "message": "Следвайте OpenDyslexic"
+   },
+   "followDyslexicToolTip": {
+      "message": "Следвайте OpenDyslexic в Twitter"
+   },
+   "followRobertJames": {
+      "message": "Следвайте Робърт Джеймс"
+   },
+   "followRobertJamesToolTip": {
+      "message": "Следвайте поддръжника на това приложение."
+   },
+   "fontColorLabel": {
+      "message": "Шрифт"
+   },
+   "fontColorSetting": {
+      "message": "Цвят"
+   },
+   "fontColorTooltip": {
+      "message": "Променете цвета на шрифта."
+   },
+   "googleDocsLabel": {
+      "message": "Гугъл документи"
+   },
+   "googleDocsTooltip": {
+      "message": "Активирайте пълната поддръжка на Google Docs."
+   },
+   "helperbird": {
+      "message": "Открийте Helperbird"
+   },
+   "off": {
+      "message": "Изключено"
+   },
+   "on": {
+      "message": "На"
+   },
+   "options": {
+      "message": "Настроики"
+   },
+   "personalSetting": {
+      "message": "Лични"
+   },
+   "review": {
+      "message": "Преглед"
+   },
+   "reviews": {
+      "message": "Отзиви"
+   },
+   "saved": {
+      "message": "Запазено"
+   },
+   "selectedFontLabel": {
+      "message": "Избран шрифт за използване."
+   },
+   "settings": {
+      "message": "Настройки"
+   },
+   "socialSetting": {
+      "message": "Социални"
+   },
+   "style": {
+      "message": "Стил"
+   },
+   "supportToolTip": {
+      "message": "Оставете или прочетете отзиви"
+   },
+   "supportToolTipTwo": {
+      "message": "Имате проблем? Свържете се с екипа за поддръжка."
+   },
+   "supportlSetting": {
+      "message": "поддържа"
+   },
+   "title_fonts": {
+      "message": "Шрифтове"
+   },
+   "websiteLabel": {
+      "message": "Уебсайт"
+   },
+   "websiteTooltip": {
+      "message": "Уебсайт за поддръжка."
+   },
+   "whatsNew": {
+      "message": "Какво ново"
+   }
+}

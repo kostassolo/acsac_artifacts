@@ -1,0 +1,139 @@
+{
+   "OpenDyslexic": {
+      "message": "Upptäck OpenDyslexic"
+   },
+   "appDescription": {
+      "description": "Formatera sidor med hjälp av OpenDyslexic-teckensnitt och hjälp med låg kontrast",
+      "message": "Formatera sidor med hjälp av OpenDyslexic-teckensnitt och hjälp med låg kontrast"
+   },
+   "appName": {
+      "description": "Formatera sidor med hjälp av OpenDyslexic-teckensnitt och hjälp med låg kontrast.",
+      "message": "OpenDyslexic för Chrome"
+   },
+   "appNameEdge": {
+      "description": "Format pages using the OpenDyslexic font and low contrast help.",
+      "message": "OpenDyslexic for Edge"
+   },
+   "appNameFirefox": {
+      "description": "Format pages using the OpenDyslexic font and low contrast help.",
+      "message": "OpenDyslexic for Firefox"
+   },
+   "appTitle": {
+      "description": "Formatera sidor med hjälp av OpenDyslexic-teckensnitt och hjälp med låg kontrast.",
+      "message": "OpenDyslexic"
+   },
+   "backgroundColorLabel": {
+      "message": "Bakgrund"
+   },
+   "backgroundColorTooltip": {
+      "message": "Ändra bakgrundsfärg."
+   },
+   "codeSetting": {
+      "message": "Källkod"
+   },
+   "comingSoon": {
+      "message": "Kommer snart"
+   },
+   "enableFontLabel": {
+      "message": "Gör det möjligt"
+   },
+   "featureTint": {
+      "message": "Aktivera överlägg"
+   },
+   "firefox": {
+      "message": "Firefox-version"
+   },
+   "firefoxText": {
+      "message": "Använd Firefox? Ladda ner den idag."
+   },
+   "followAbbie": {
+      "message": "Stöd OpenDyslexic"
+   },
+   "followAbbieToolTip": {
+      "message": "Stöd skaparen av OpenDyslexic."
+   },
+   "followDyslexic": {
+      "message": "Följ OpenDyslexic"
+   },
+   "followDyslexicToolTip": {
+      "message": "Följ OpenDyslexic på Twitter"
+   },
+   "followRobertJames": {
+      "message": "Följ Robert James"
+   },
+   "followRobertJamesToolTip": {
+      "message": "Följ underhållaren av den här appen."
+   },
+   "fontColorLabel": {
+      "message": "Font"
+   },
+   "fontColorSetting": {
+      "message": "Färg"
+   },
+   "fontColorTooltip": {
+      "message": "Ändra teckensnittsfärg."
+   },
+   "googleDocsLabel": {
+      "message": "Google Dokument"
+   },
+   "googleDocsTooltip": {
+      "message": "Aktivera fullständigt stöd för Google Dokument."
+   },
+   "helperbird": {
+      "message": "Upptäck Helperbird"
+   },
+   "off": {
+      "message": "Av"
+   },
+   "on": {
+      "message": "På"
+   },
+   "options": {
+      "message": "alternativ"
+   },
+   "personalSetting": {
+      "message": "Personlig"
+   },
+   "review": {
+      "message": "Recension"
+   },
+   "reviews": {
+      "message": "Recensioner"
+   },
+   "saved": {
+      "message": "Sparat"
+   },
+   "selectedFontLabel": {
+      "message": "Vald typsnitt som ska användas."
+   },
+   "settings": {
+      "message": "inställningar"
+   },
+   "socialSetting": {
+      "message": "Social"
+   },
+   "style": {
+      "message": "Stil"
+   },
+   "supportToolTip": {
+      "message": "Lämna eller läs recensioner"
+   },
+   "supportToolTipTwo": {
+      "message": "Har du ett problem? Kontakta supporten."
+   },
+   "supportlSetting": {
+      "message": "Stöd"
+   },
+   "title_fonts": {
+      "message": "Typsnitt"
+   },
+   "websiteLabel": {
+      "message": "Hemsida"
+   },
+   "websiteTooltip": {
+      "message": "Supportwebbplats."
+   },
+   "whatsNew": {
+      "message": "Vad är nytt"
+   }
+}

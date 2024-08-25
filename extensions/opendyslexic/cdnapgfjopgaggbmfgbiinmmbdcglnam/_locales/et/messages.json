@@ -1,0 +1,139 @@
+{
+   "OpenDyslexic": {
+      "message": "Avastage OpenDyslexic"
+   },
+   "appDescription": {
+      "description": "Vormindage lehed OpenDyslexicu fondi ja madala kontrastsusega abi abil",
+      "message": "Vormindage lehed OpenDyslexicu fondi ja madala kontrastsusega abi abil"
+   },
+   "appName": {
+      "description": "Vormindage lehed OpenDyslexicu fondi ja madala kontrastsusega abi abil.",
+      "message": "Chrome'i jaoks mõeldud OpenDyslexic"
+   },
+   "appNameEdge": {
+      "description": "Format pages using the OpenDyslexic font and low contrast help.",
+      "message": "OpenDyslexic for Edge"
+   },
+   "appNameFirefox": {
+      "description": "Format pages using the OpenDyslexic font and low contrast help.",
+      "message": "OpenDyslexic for Firefox"
+   },
+   "appTitle": {
+      "description": "Vormindage lehed OpenDyslexicu fondi ja madala kontrastsusega abi abil.",
+      "message": "OpenDyslexic"
+   },
+   "backgroundColorLabel": {
+      "message": "Taust"
+   },
+   "backgroundColorTooltip": {
+      "message": "Muutke taustavärvi."
+   },
+   "codeSetting": {
+      "message": "Lähtekood"
+   },
+   "comingSoon": {
+      "message": "Tulekul"
+   },
+   "enableFontLabel": {
+      "message": "Luba"
+   },
+   "featureTint": {
+      "message": "Luba ülekate"
+   },
+   "firefox": {
+      "message": "Firefoxi versioon"
+   },
+   "firefoxText": {
+      "message": "Kas kasutada Firefoxi? Laadige see alla täna."
+   },
+   "followAbbie": {
+      "message": "Toetage OpenDyslexicut"
+   },
+   "followAbbieToolTip": {
+      "message": "Toetage OpenDyslexicu loojat."
+   },
+   "followDyslexic": {
+      "message": "Järgige OpenDyslexicut"
+   },
+   "followDyslexicToolTip": {
+      "message": "Jälgige OpenDyslexicut Twitteris"
+   },
+   "followRobertJames": {
+      "message": "Järgige Robert Jamesit"
+   },
+   "followRobertJamesToolTip": {
+      "message": "Järgige selle rakenduse hooldajat."
+   },
+   "fontColorLabel": {
+      "message": "Font"
+   },
+   "fontColorSetting": {
+      "message": "Värv"
+   },
+   "fontColorTooltip": {
+      "message": "Muutke fondi värvi."
+   },
+   "googleDocsLabel": {
+      "message": "Google Docs"
+   },
+   "googleDocsTooltip": {
+      "message": "Lubage Google'i dokumentide täielik tugi."
+   },
+   "helperbird": {
+      "message": "Avastage Helperbird"
+   },
+   "off": {
+      "message": "Väljas"
+   },
+   "on": {
+      "message": "Peal"
+   },
+   "options": {
+      "message": "Valikud"
+   },
+   "personalSetting": {
+      "message": "Isiklik"
+   },
+   "review": {
+      "message": "Ülevaade"
+   },
+   "reviews": {
+      "message": "Arvustused"
+   },
+   "saved": {
+      "message": "Salvestatud"
+   },
+   "selectedFontLabel": {
+      "message": "Kasutamiseks valitud font."
+   },
+   "settings": {
+      "message": "Seaded"
+   },
+   "socialSetting": {
+      "message": "Sotsiaalne"
+   },
+   "style": {
+      "message": "Stiil"
+   },
+   "supportToolTip": {
+      "message": "Jätke arvustusi või lugege neid"
+   },
+   "supportToolTipTwo": {
+      "message": "Kas teil on probleem? Võtke ühendust tugiteenusega."
+   },
+   "supportlSetting": {
+      "message": "Toetus"
+   },
+   "title_fonts": {
+      "message": "Fondid"
+   },
+   "websiteLabel": {
+      "message": "Veebisait"
+   },
+   "websiteTooltip": {
+      "message": "Tugiteenuste veebisait."
+   },
+   "whatsNew": {
+      "message": "Mis on uut"
+   }
+}

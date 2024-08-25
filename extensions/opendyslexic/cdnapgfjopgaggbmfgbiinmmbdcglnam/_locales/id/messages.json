@@ -1,0 +1,139 @@
+{
+   "OpenDyslexic": {
+      "message": "Temukan OpenDyslexic"
+   },
+   "appDescription": {
+      "description": "Format halaman menggunakan font OpenDyslexic dan bantuan kontras rendah",
+      "message": "Format halaman menggunakan font OpenDyslexic dan bantuan kontras rendah"
+   },
+   "appName": {
+      "description": "Format halaman menggunakan font OpenDyslexic dan bantuan kontras rendah.",
+      "message": "OpenDyslexic untuk Chrome"
+   },
+   "appNameEdge": {
+      "description": "Format pages using the OpenDyslexic font and low contrast help.",
+      "message": "OpenDyslexic for Edge"
+   },
+   "appNameFirefox": {
+      "description": "Format pages using the OpenDyslexic font and low contrast help.",
+      "message": "OpenDyslexic for Firefox"
+   },
+   "appTitle": {
+      "description": "Format halaman menggunakan font OpenDyslexic dan bantuan kontras rendah.",
+      "message": "Disleksia Terbuka"
+   },
+   "backgroundColorLabel": {
+      "message": "Latar Belakang"
+   },
+   "backgroundColorTooltip": {
+      "message": "Ubah warna latar belakang."
+   },
+   "codeSetting": {
+      "message": "Kode sumber"
+   },
+   "comingSoon": {
+      "message": "Segera akan datang"
+   },
+   "enableFontLabel": {
+      "message": "Memungkinkan"
+   },
+   "featureTint": {
+      "message": "Aktifkan Hamparan"
+   },
+   "firefox": {
+      "message": "Versi Firefox"
+   },
+   "firefoxText": {
+      "message": "Gunakan Firefox? Unduh hari ini."
+   },
+   "followAbbie": {
+      "message": "Mendukung OpenDyslexic"
+   },
+   "followAbbieToolTip": {
+      "message": "Dukung pencipta OpenDyslexic."
+   },
+   "followDyslexic": {
+      "message": "Ikuti OpenDyslexic"
+   },
+   "followDyslexicToolTip": {
+      "message": "Ikuti OpenDyslexic di Twitter"
+   },
+   "followRobertJames": {
+      "message": "Ikuti Robert James"
+   },
+   "followRobertJamesToolTip": {
+      "message": "Ikuti pengelola aplikasi ini."
+   },
+   "fontColorLabel": {
+      "message": "jenis huruf"
+   },
+   "fontColorSetting": {
+      "message": "Warna"
+   },
+   "fontColorTooltip": {
+      "message": "Ubah warna font."
+   },
+   "googleDocsLabel": {
+      "message": "Google Dokumen"
+   },
+   "googleDocsTooltip": {
+      "message": "Aktifkan dukungan penuh Google Documents."
+   },
+   "helperbird": {
+      "message": "Temukan Helperbird"
+   },
+   "off": {
+      "message": "Mati"
+   },
+   "on": {
+      "message": "Di"
+   },
+   "options": {
+      "message": "Pilihan"
+   },
+   "personalSetting": {
+      "message": "Pribadi"
+   },
+   "review": {
+      "message": "Ulasan"
+   },
+   "reviews": {
+      "message": "Ulasan"
+   },
+   "saved": {
+      "message": "Diselamatkan"
+   },
+   "selectedFontLabel": {
+      "message": "Font yang dipilih untuk digunakan."
+   },
+   "settings": {
+      "message": "Pengaturan"
+   },
+   "socialSetting": {
+      "message": "Sosial"
+   },
+   "style": {
+      "message": "Gaya"
+   },
+   "supportToolTip": {
+      "message": "Tinggalkan atau baca ulasan"
+   },
+   "supportToolTipTwo": {
+      "message": "Memiliki masalah? Hubungi dukungan."
+   },
+   "supportlSetting": {
+      "message": "Dukung"
+   },
+   "title_fonts": {
+      "message": "font"
+   },
+   "websiteLabel": {
+      "message": "Situs web"
+   },
+   "websiteTooltip": {
+      "message": "Situs web dukungan."
+   },
+   "whatsNew": {
+      "message": "Apa yang baru?"
+   }
+}

@@ -1,0 +1,29 @@
+.ct-class {
+  border: 0 !important;
+  top: -10% !important;
+  margin: 0 !important;
+  opacity: 1 !important;
+  padding: 0 !important;
+  right: -10% !important;
+  width: 120% !important;
+  height: 120% !important;
+  outline: none !important;
+  display: none !important;
+  position: fixed !important;
+  border-radius: 0 !important;
+  box-shadow: none !important;
+  text-shadow: none !important;
+  z-index: 2147483647 !important;
+  pointer-events: none !important;
+  transition: opacity 0.1s !important;
+  mix-blend-mode: multiply !important;
+  background: rgba(var(--ct-R) , var(--ct-G), var(--ct-B),  var(--ct-A)) !important;
+};
+
+.ct-class[mode='ON'] {
+  display: none !important;
+}
+
+.ct-class[mode='OFF'] {
+  display: block !important;
+}

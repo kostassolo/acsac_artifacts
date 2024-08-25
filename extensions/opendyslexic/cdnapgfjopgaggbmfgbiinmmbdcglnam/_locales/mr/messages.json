@@ -1,0 +1,139 @@
+{
+   "OpenDyslexic": {
+      "message": "ओपनडिस्लेक्सिक शोधा"
+   },
+   "appDescription": {
+      "description": "ओपनडिस्लेक्सिक फॉन्ट आणि लो कॉन्ट्रास्ट मदत वापरुन पृष्ठे स्वरूपित करा",
+      "message": "ओपनडिस्लेक्सिक फॉन्ट आणि लो कॉन्ट्रास्ट मदत वापरुन पृष्ठे स्वरूपित करा"
+   },
+   "appName": {
+      "description": "ओपनडिस्लेक्सिक फॉन्ट आणि लो कॉन्ट्रास्ट मदत वापरुन पृष्ठे स्वरूपित करा.",
+      "message": "Chrome साठी ओपनडिस्लेक्सिक"
+   },
+   "appNameEdge": {
+      "description": "Format pages using the OpenDyslexic font and low contrast help.",
+      "message": "OpenDyslexic for Edge"
+   },
+   "appNameFirefox": {
+      "description": "Format pages using the OpenDyslexic font and low contrast help.",
+      "message": "OpenDyslexic for Firefox"
+   },
+   "appTitle": {
+      "description": "ओपनडिस्लेक्सिक फॉन्ट आणि लो कॉन्ट्रास्ट मदत वापरुन पृष्ठे स्वरूपित करा.",
+      "message": "ओपनडिस्लेक्सिक"
+   },
+   "backgroundColorLabel": {
+      "message": "पार्श्वभूमी"
+   },
+   "backgroundColorTooltip": {
+      "message": "पार्श्वभूमी रंग बदला."
+   },
+   "codeSetting": {
+      "message": "मूळ सांकेतिक शब्दकोश"
+   },
+   "comingSoon": {
+      "message": "लवकरच येत आहे"
+   },
+   "enableFontLabel": {
+      "message": "सक्षम करा"
+   },
+   "featureTint": {
+      "message": "आच्छादन सक्षम करा"
+   },
+   "firefox": {
+      "message": "फायरफॉक्स आवृत्ती"
+   },
+   "firefoxText": {
+      "message": "फायरफॉक्स वापरायचा? आजच डाउनलोड करा."
+   },
+   "followAbbie": {
+      "message": "ओपनडिस्लेक्सिक समर्थन"
+   },
+   "followAbbieToolTip": {
+      "message": "ओपनडिस्लेक्सिकच्या निर्मात्यास समर्थन द्या."
+   },
+   "followDyslexic": {
+      "message": "ओपनडिस्लेक्सिक अनुसरण करा"
+   },
+   "followDyslexicToolTip": {
+      "message": "ट्विटरवर ओपनडिस्लेक्सिकचे अनुसरण करा"
+   },
+   "followRobertJames": {
+      "message": "अनुसरण करा रॉबर्ट जेम्स"
+   },
+   "followRobertJamesToolTip": {
+      "message": "या अ‍ॅपच्या देखभालकाचे अनुसरण करा."
+   },
+   "fontColorLabel": {
+      "message": "फॉन्ट"
+   },
+   "fontColorSetting": {
+      "message": "रंग"
+   },
+   "fontColorTooltip": {
+      "message": "फॉन्ट रंग बदला."
+   },
+   "googleDocsLabel": {
+      "message": "गूगल डॉक्स"
+   },
+   "googleDocsTooltip": {
+      "message": "पूर्ण Google डॉक्स समर्थन सक्षम करा."
+   },
+   "helperbird": {
+      "message": "हेल्पबर्ड शोधा"
+   },
+   "off": {
+      "message": "बंद"
+   },
+   "on": {
+      "message": "चालू"
+   },
+   "options": {
+      "message": "पर्याय"
+   },
+   "personalSetting": {
+      "message": "वैयक्तिक"
+   },
+   "review": {
+      "message": "पुनरावलोकन"
+   },
+   "reviews": {
+      "message": "पुनरावलोकने"
+   },
+   "saved": {
+      "message": "जतन केले"
+   },
+   "selectedFontLabel": {
+      "message": "वापरण्यासाठी फॉन्ट निवडले."
+   },
+   "settings": {
+      "message": "सेटिंग्ज"
+   },
+   "socialSetting": {
+      "message": "सामाजिक"
+   },
+   "style": {
+      "message": "शैली"
+   },
+   "supportToolTip": {
+      "message": "पुनरावलोकने सोडा किंवा वाचा"
+   },
+   "supportToolTipTwo": {
+      "message": "एक समस्या आहे? समर्थन संपर्क."
+   },
+   "supportlSetting": {
+      "message": "आधार"
+   },
+   "title_fonts": {
+      "message": "फॉन्ट"
+   },
+   "websiteLabel": {
+      "message": "संकेतस्थळ"
+   },
+   "websiteTooltip": {
+      "message": "समर्थन वेबसाइट."
+   },
+   "whatsNew": {
+      "message": "काय नवीन आहे"
+   }
+}

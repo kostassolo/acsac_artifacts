@@ -1,0 +1,139 @@
+{
+   "OpenDyslexic": {
+      "message": "Découvrez OpenDyslexic"
+   },
+   "appDescription": {
+      "description": "Formatez les pages à l'aide de la police OpenDyslexic et de l'aide à faible contraste",
+      "message": "Formatez les pages à l'aide de la police OpenDyslexic et de l'aide à faible contraste"
+   },
+   "appName": {
+      "description": "Formatez les pages à l'aide de la police OpenDyslexic et de l'aide à faible contraste.",
+      "message": "OpenDyslexic pour Chrome"
+   },
+   "appNameEdge": {
+      "description": "Format pages using the OpenDyslexic font and low contrast help.",
+      "message": "OpenDyslexic for Edge"
+   },
+   "appNameFirefox": {
+      "description": "Format pages using the OpenDyslexic font and low contrast help.",
+      "message": "OpenDyslexic for Firefox"
+   },
+   "appTitle": {
+      "description": "Formatez les pages à l'aide de la police OpenDyslexic et de l'aide à faible contraste.",
+      "message": "OuvertDyslexique"
+   },
+   "backgroundColorLabel": {
+      "message": "Arrière-plan"
+   },
+   "backgroundColorTooltip": {
+      "message": "Changez la couleur de fond."
+   },
+   "codeSetting": {
+      "message": "Code source"
+   },
+   "comingSoon": {
+      "message": "Bientôt disponible"
+   },
+   "enableFontLabel": {
+      "message": "Activer"
+   },
+   "featureTint": {
+      "message": "Activer la superposition"
+   },
+   "firefox": {
+      "message": "Version Firefox"
+   },
+   "firefoxText": {
+      "message": "Utiliser Firefox ? Téléchargez-le aujourd'hui."
+   },
+   "followAbbie": {
+      "message": "Soutenir OpenDyslexic"
+   },
+   "followAbbieToolTip": {
+      "message": "Soutenez le créateur d'OpenDyslexic."
+   },
+   "followDyslexic": {
+      "message": "Suivre OpenDyslexic"
+   },
+   "followDyslexicToolTip": {
+      "message": "Suivez OpenDyslexic sur Twitter"
+   },
+   "followRobertJames": {
+      "message": "Suivez Robert James"
+   },
+   "followRobertJamesToolTip": {
+      "message": "Suivez le mainteneur de cette application."
+   },
+   "fontColorLabel": {
+      "message": "Police de caractère"
+   },
+   "fontColorSetting": {
+      "message": "Couleur"
+   },
+   "fontColorTooltip": {
+      "message": "Changez la couleur de la police."
+   },
+   "googleDocsLabel": {
+      "message": "Google Docs"
+   },
+   "googleDocsTooltip": {
+      "message": "Activez la prise en charge complète de Google Docs."
+   },
+   "helperbird": {
+      "message": "Découvrez Helperbird"
+   },
+   "off": {
+      "message": "Désactivé"
+   },
+   "on": {
+      "message": "Au"
+   },
+   "options": {
+      "message": "Options"
+   },
+   "personalSetting": {
+      "message": "Personnel"
+   },
+   "review": {
+      "message": "Revoir"
+   },
+   "reviews": {
+      "message": "Commentaires"
+   },
+   "saved": {
+      "message": "Enregistré"
+   },
+   "selectedFontLabel": {
+      "message": "Police sélectionnée à utiliser."
+   },
+   "settings": {
+      "message": "Paramètres"
+   },
+   "socialSetting": {
+      "message": "Social"
+   },
+   "style": {
+      "message": "Style"
+   },
+   "supportToolTip": {
+      "message": "Laisser ou lire des avis"
+   },
+   "supportToolTipTwo": {
+      "message": "Vous avez un problème ? Contactez le support."
+   },
+   "supportlSetting": {
+      "message": "Support"
+   },
+   "title_fonts": {
+      "message": "Polices"
+   },
+   "websiteLabel": {
+      "message": "Site Internet"
+   },
+   "websiteTooltip": {
+      "message": "Site Web d'assistance."
+   },
+   "whatsNew": {
+      "message": "Quoi de neuf"
+   }
+}

@@ -1,0 +1,8 @@
+{
+    "config": {
+        "enabled": 1,
+        "font": "opendyslexic",
+        "rulerEnabled": 1,
+        "rulerWidth": "26"
+    }
+}

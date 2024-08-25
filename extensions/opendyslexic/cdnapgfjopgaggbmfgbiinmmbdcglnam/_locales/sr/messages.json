@@ -1,0 +1,139 @@
+{
+   "OpenDyslexic": {
+      "message": "Откријте ОпенДислекиц"
+   },
+   "appDescription": {
+      "description": "Форматирајте странице користећи фонт ОпенДислекиц и помоћ при ниском контрасту",
+      "message": "Форматирајте странице користећи фонт ОпенДислекиц и помоћ при ниском контрасту"
+   },
+   "appName": {
+      "description": "Форматирајте странице користећи фонт ОпенДислекиц и помоћ при ниском контрасту.",
+      "message": "ОпенДислекиц за Цхроме"
+   },
+   "appNameEdge": {
+      "description": "Format pages using the OpenDyslexic font and low contrast help.",
+      "message": "OpenDyslexic for Edge"
+   },
+   "appNameFirefox": {
+      "description": "Format pages using the OpenDyslexic font and low contrast help.",
+      "message": "OpenDyslexic for Firefox"
+   },
+   "appTitle": {
+      "description": "Форматирајте странице користећи фонт ОпенДислекиц и помоћ при ниском контрасту.",
+      "message": "ОпенДислекиц"
+   },
+   "backgroundColorLabel": {
+      "message": "Позадина"
+   },
+   "backgroundColorTooltip": {
+      "message": "Промените боју позадине."
+   },
+   "codeSetting": {
+      "message": "Изворни код"
+   },
+   "comingSoon": {
+      "message": "Долази ускоро"
+   },
+   "enableFontLabel": {
+      "message": "Омогући"
+   },
+   "featureTint": {
+      "message": "Омогући преклапање"
+   },
+   "firefox": {
+      "message": "Верзија Фирефок-а"
+   },
+   "firefoxText": {
+      "message": "Користите Фирефок? Преузмите га данас."
+   },
+   "followAbbie": {
+      "message": "Подршка ОпенДислекиц"
+   },
+   "followAbbieToolTip": {
+      "message": "Подржите творца ОпенДислекиц-а."
+   },
+   "followDyslexic": {
+      "message": "Пратите ОпенДислекиц"
+   },
+   "followDyslexicToolTip": {
+      "message": "Пратите ОпенДислекиц на Твиттеру"
+   },
+   "followRobertJames": {
+      "message": "Пратите Роберта Јамеса"
+   },
+   "followRobertJamesToolTip": {
+      "message": "Пратите одржаватеља ове апликације."
+   },
+   "fontColorLabel": {
+      "message": "Фонт"
+   },
+   "fontColorSetting": {
+      "message": "Боја"
+   },
+   "fontColorTooltip": {
+      "message": "Промените боју фонта."
+   },
+   "googleDocsLabel": {
+      "message": "Гоогле документи"
+   },
+   "googleDocsTooltip": {
+      "message": "Омогућите потпуну подршку за Гоогле документе."
+   },
+   "helperbird": {
+      "message": "Откријте Хелпербирд"
+   },
+   "off": {
+      "message": "Ван"
+   },
+   "on": {
+      "message": "на"
+   },
+   "options": {
+      "message": "Опције"
+   },
+   "personalSetting": {
+      "message": "Лични"
+   },
+   "review": {
+      "message": "Преглед"
+   },
+   "reviews": {
+      "message": "Коментара"
+   },
+   "saved": {
+      "message": "Сачувано"
+   },
+   "selectedFontLabel": {
+      "message": "Изабрани фонт за употребу."
+   },
+   "settings": {
+      "message": "Подешавања"
+   },
+   "socialSetting": {
+      "message": "Друштвени"
+   },
+   "style": {
+      "message": "Стил"
+   },
+   "supportToolTip": {
+      "message": "Оставите или прочитајте критике"
+   },
+   "supportToolTipTwo": {
+      "message": "Имате проблем? Обратите се подршци."
+   },
+   "supportlSetting": {
+      "message": "Подршка"
+   },
+   "title_fonts": {
+      "message": "Фонтови"
+   },
+   "websiteLabel": {
+      "message": "Веб сајт"
+   },
+   "websiteTooltip": {
+      "message": "Веб локација за подршку."
+   },
+   "whatsNew": {
+      "message": "Шта је ново"
+   }
+}
