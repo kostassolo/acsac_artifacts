@@ -12,8 +12,7 @@
                 "*://docs.google.com/*"
             ],
             "js": [
-                "scripts/content.js",
-                "optionsinject.js"
+                "scripts/content.js"
             ],
             "matches": [
                 "http://*/*",

@@ -140,7 +140,7 @@ def visit(driver, website, config_name,index,config_number):
         if not os.path.exists(signatures_path):
             os.makedirs(signatures_path)
 
-        file_path = os.path.join(signatures_path, f'signature{config_number}.json')
+        file_path = os.path.join(signatures_path, f'signature{index}.json')
 
 
         # Write JSON data to a file
