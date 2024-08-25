@@ -31,7 +31,7 @@ For each extension folder, we include:
   - `config1.json`, `config2.json`, `configX`: Various options specific to the extension.
 - **Signatures Directory:**
   - Baseline signature: The fingerprint of the extension without customization.
-  - Configuration-specific signatures: For each configuration (e.g., `config1.json`), there is a corresponding signature file (e.g., `signature1.json`).
+  - Configuration-specific signatures: For each configuration,  the extracted signature file (e.g., `signature1.json`).
 
 ### Honeypage
 
