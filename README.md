@@ -109,7 +109,7 @@ The folder `testing` contains the main logic of the configuration testing. It ge
 
     - Run the crawler script with the configuration folder and the extension's code folder as arguments:
       ```sh
-      python3 crawler.py <configurations_path> ../extensions/<extension-name>/<extensionID>
+      python crawler.py <configurations_path> ../extensions/<extension-name>/<extensionID>
       ```
 
 This process will launch a new browser instance, apply each configuration, and extract the signatures, which are then stored in the signatures directory. 
