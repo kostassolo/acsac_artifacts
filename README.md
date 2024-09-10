@@ -61,7 +61,7 @@ The folder `testing` contains the main logic of the configuration testing. It ge
    This script generates and stores multiple fuzzed configurations in the `configurations` folder for a given extension options object. 
 
       ```sh
-      python fuzzing_options.py ../extensions/<extension-name>/configurations/configuration.json
+      python fuzzing_options.py ../extensions/<extension-name>/configuration.json
       ```
   After running the fuzzing script, expect to see several new configuration files (e.g., `config1.json`, `config2.json`, etc.) in the `configurations` folder.
   **Example configurations:**
