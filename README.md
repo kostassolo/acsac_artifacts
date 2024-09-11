@@ -51,7 +51,7 @@ The folder `testing` contains the main logic of the configuration testing. It ge
 
 1. **Install fuzzing and crawler requirements in the main directory:**
   ```sh
-     pip install requirements.txt
+     pip install -r requirements.txt
   ```
   This will install Selenium and webcolors required for fuzzing and crawler script.
 

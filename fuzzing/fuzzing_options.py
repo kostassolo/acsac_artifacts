@@ -16,23 +16,29 @@ def transform_number(value):
         transformations.append(value * 2)  # Double the value
         transformations.append(value - 1)  # Subtract 1
         transformations.append(-value)     # Negate the value
-        # Add more transformations as needed
     return transformations
 
 def transform_percentage(value):
     transformations = []
     if isinstance(value, str) and value.endswith("%"):
-        original_value = float(value[:-1])
-        transformations.append(f"{original_value + random.uniform(-5, 5)}%")
-        transformations.append(f"{original_value + random.uniform(-10, 10)}%")
-        # Add more transformations as needed
+        try:
+            original_value = float(value[:-1])
+            transformations.append(f"{original_value + random.uniform(-5, 5)}%")
+            transformations.append(f"{original_value + random.uniform(-10, 10)}%")
+        except ValueError:
+            pass
     return transformations if transformations else [value]
 
 def transform_hex_color(value):
     if isinstance(value, str) and value.startswith("#") and len(value) == 7:
-        # Fetch a random CSS3 color name and convert it to hex
-        random_color_name = random.choice(list(webcolors.CSS3_NAMES_TO_HEX.keys()))
-        return [webcolors.name_to_hex(random_color_name)]
+        try:
+            # Reverse the hex to CSS3 name dictionary
+            css3_names_to_hex = {v: k for k, v in webcolors.CSS3_HEX_TO_NAMES.items()}
+            random_color_name = random.choice(list(css3_names_to_hex.keys()))
+            return [webcolors.name_to_hex(random_color_name)]
+        except AttributeError:
+            # Fallback if webcolors or the attribute is missing
+            return [value]
     return [value]
 
 def transform_font(value):
@@ -44,7 +50,6 @@ def transform_string(value):
     transformations = []
     if isinstance(value, str) and value.lower() in all_string_bools:
         transformations.append(all_string_bools[value.lower()])
-        # Add more transformations as needed
     return transformations if transformations else [value]
 
 def transform_value(key, value):
@@ -106,7 +111,7 @@ def main(config_file):
     # Apply combinatorial transformations
     transformed_jsons = apply_combinatorial_transformations(data)
 
-    # Create 'configuration' directory if it doesn't exist
+    # Create 'configurations' directory if it doesn't exist
     output_dir = 'configurations'
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
