@@ -43,14 +43,17 @@ This directory includes a simplified version of the options fuzzing component, t
 
 ### Signature Extraction (Section 5: Evaluation)
 
-The folder `testing` contains the main logic of the configuration testing. It generates a new content-script that applies the options to the extension, and updates the `Manifest.json` automatically. The script then visits the honeypage and extracts the additional signatures.
+The folder `testing` contains the main logic of the configuration testing. It generates a new content script that applies the options to the extension and updates the `Manifest.json` automatically. The script then visits the honeypage and extracts the additional signatures.
 
 
 
 ### Testing  Configuration Fuzzing
 
-1. **Install fuzzing and crawler requirements in the main directory:**
+1. **Install fuzzing and crawler requirements in the main directory. For consistency, we will enable a Python virtual environment and install the dependencies.:**
   ```sh
+     cd acsac_artifacts
+     python -m venv artifacts
+     source artifacts/bin/activate
      pip install -r requirements.txt
   ```
   This will install Selenium and webcolors required for fuzzing and crawler script.
@@ -61,6 +64,7 @@ The folder `testing` contains the main logic of the configuration testing. It ge
    This script generates and stores multiple fuzzed configurations in the `configurations` folder for a given extension options object. 
 
       ```sh
+      cd fuzzing
       python fuzzing_options.py ../extensions/<extension-name>/configuration.json
       ```
   After running the fuzzing script, expect to see several new configuration files (e.g., `config1.json`, `config2.json`, etc.) in the `configurations` folder.
@@ -87,6 +91,7 @@ The folder `testing` contains the main logic of the configuration testing. It ge
 
     - Navigate to the `honeypage` directory and install necessary Node.js packages (ensure Node.js and npm are installed)
       ```sh
+      cd honeypage
       npm init -y
       npm install express --save  
       ```
@@ -109,6 +114,7 @@ The folder `testing` contains the main logic of the configuration testing. It ge
 
     - Run the crawler script with the configuration folder and the extension's code folder as arguments:
       ```sh
+      cd testing
       python crawler.py <configurations_path> ../extensions/<extension-name>/<extensionID>
       ```
 
@@ -119,6 +125,7 @@ Each script runs once to generate the extension signatures for simplicity and ve
 5. **Testing with given options:**
 You can directly test using the options provided in each extension folder <extension-name/configuration>:
  ```sh
+cd testing
 python crawler.py ../extensions/darkreader/configurations/ ../extensions/darkreader/eimadpbcbfnmbkopoojfekhnkhdbieeh/
 python crawler.py ../extensions/opendyslexic/configurations/ ../extensions/opendyslexic/cdnapgfjopgaggbmfgbiinmmbdcglnam/
 python crawler.py ../extensions/dyslexiafriendly/configurations/ ../extensions/dyslexiafriendly/miepjgfkkommhllbbjaedffcpkncboeo/
