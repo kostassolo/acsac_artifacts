@@ -22,9 +22,65 @@
         "added": [
             {
                 "id": "dyslexia-friendly-ruler",
-                "outerHTML": "<div id=\"dyslexia-friendly-ruler\" style=\"height:26px;\"></div>"
+                "outerHTML": "<div id=\"dyslexia-friendly-ruler\" style=\"height:13px;\"></div>"
             }
         ],
         "removed": []
+    },
+    {
+        "mutation": 4,
+        "type": "attributes",
+        "target": {
+            "id": "dyslexia-friendly-ruler",
+            "outerHTML": "<div id=\"dyslexia-friendly-ruler\" style=\"height: 13px; top: 128.5px;\"></div>"
+        }
+    },
+    {
+        "mutation": 5,
+        "type": "attributes",
+        "target": {
+            "id": "dyslexia-friendly-ruler",
+            "outerHTML": "<div id=\"dyslexia-friendly-ruler\" style=\"height: 13px; top: 127.5px;\"></div>"
+        }
+    },
+    {
+        "mutation": 6,
+        "type": "attributes",
+        "target": {
+            "id": "dyslexia-friendly-ruler",
+            "outerHTML": "<div id=\"dyslexia-friendly-ruler\" style=\"height: 13px; top: 198.5px;\"></div>"
+        }
+    },
+    {
+        "mutation": 7,
+        "type": "attributes",
+        "target": {
+            "id": "dyslexia-friendly-ruler",
+            "outerHTML": "<div id=\"dyslexia-friendly-ruler\" style=\"height: 13px; top: 199.5px;\"></div>"
+        }
+    },
+    {
+        "mutation": 8,
+        "type": "attributes",
+        "target": {
+            "id": "dyslexia-friendly-ruler",
+            "outerHTML": "<div id=\"dyslexia-friendly-ruler\" style=\"height: 13px; top: 195.5px;\"></div>"
+        }
+    },
+    {
+        "mutation": 9,
+        "type": "attributes",
+        "target": {
+            "id": "dyslexia-friendly-ruler",
+            "outerHTML": "<div id=\"dyslexia-friendly-ruler\" style=\"height: 13px; top: 191.5px;\"></div>"
+        }
+    },
+    {
+        "mutation": 10,
+        "type": "attributes",
+        "target": {
+            "id": "dyslexia-friendly-ruler",
+            "outerHTML": "<div id=\"dyslexia-friendly-ruler\" style=\"height: 13px; top: 185.5px;\"></div>"
+        }
     }
 ]

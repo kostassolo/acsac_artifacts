@@ -5,10 +5,15 @@ import argparse
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 import re
-website="http://127.0.0.1:3000"
+
+# Website to visit for extracting mutations
+website = "http://127.0.0.1:3000"
+
+# Directory to save the signature files
 signatures_path = 'signatures'
 
 
+# Helper function to convert Python objects to JavaScript-compatible objects
 def python_to_js(obj):
     if isinstance(obj, dict):
         return {k: python_to_js(v) for k, v in obj.items()}
@@ -23,13 +28,17 @@ def python_to_js(obj):
     else:
         return obj
 
-def generate_options_script(options,extension_id):
-
-    # Construct the JavaScript code for chrome.storage.sync.set()
+# Generate JavaScript code to inject extension options via `chrome.storage`
+def generate_options_script(options, extension_id):
+    # Convert the options dictionary into JavaScript code
     options_code = json.dumps(options, indent=4)
-    storage_area='local'
-    if "darkreader" in extension_id:
-        storage_area= 'sync'
+    
+    # Decide whether to use local or sync storage based on the extension ID
+    storage_area = 'local'
+    if "darkreader"   in extension_id or "dyslexia" in extension_id:
+        storage_area = 'sync'
+
+    # JavaScript code to inject the options into chrome.storage
     js_code = f'''
 function updateOptions() {{
     chrome.storage.{storage_area}.set(
@@ -40,7 +49,7 @@ function updateOptions() {{
     );
 }}
 
-// Main logic to execute when content script runs
+// Main logic to execute when the content script runs
 async function main() {{
     // Perform the update of options
     updateOptions();
@@ -52,39 +61,41 @@ main();
 
     return js_code
 
+# Write the generated JavaScript code to a file inside the extension directory
 def write_to_file(js_code, extension_path):
     with open(os.path.join(extension_path, 'optionsinject.js'), 'w') as f:
         f.write(js_code)
     print('optionsinject.js file generated successfully.')
 
+# Update the extension by injecting options and modifying the manifest file
 def update_extension(config_name, extension_path):
     try:
-        # Load options data from the config file
+        # Load the extension options from the specified config file
         with open(config_name, 'r') as file:
             options_data = json.load(file)
 
-        # Convert options_data to a JavaScript-friendly format
+        #Convert the options data to a JavaScript-compatible format
         js_options_data = python_to_js(options_data)
 
-        # Generate the JavaScript code for optionsinject.js
-        js_code = generate_options_script(js_options_data,extension_path)
+        # Generate the JavaScript code for injecting options
+        js_code = generate_options_script(js_options_data, extension_path)
 
-        # Write the JavaScript code to optionsinject.js
+        # Write the JavaScript code to the extension directory
         write_to_file(js_code, extension_path)
 
-        # Path to manifest.json
+        # Path to the manifest.json file inside the extension
         manifest_path = os.path.join(extension_path, 'manifest.json')
 
-        # Load manifest.json
+        # Load the manifest.json file
         with open(manifest_path, 'r') as f:
             manifest = json.load(f)
 
-        # Ensure content_scripts section exists and add optionsinject.js if not already present
+        # Ensure content_scripts exists and add optionsinject.js if not already present
         if 'content_scripts' in manifest and len(manifest['content_scripts']) > 0:
             if 'optionsinject.js' not in manifest['content_scripts'][0].get('js', []):
                 manifest['content_scripts'][0]['js'].append('optionsinject.js')
         else:
-            # If content_scripts section doesn't exist or is empty, create it with the injection
+            # Create the content_scripts section if it doesn't exist
             manifest['content_scripts'] = [{
                 "matches": ["<all_urls>"],
                 "js": ["optionsinject.js"],
@@ -93,7 +104,7 @@ def update_extension(config_name, extension_path):
                 "match_about_blank": True
             }]
 
-        # Write updated manifest back to manifest.json
+        # Write the updated manifest back to the manifest.json file
         with open(manifest_path, 'w') as f:
             json.dump(manifest, f, indent=4)
 
@@ -102,48 +113,53 @@ def update_extension(config_name, extension_path):
     except Exception as exc:
         print(f"An error occurred while updating extension for {config_name}: {exc}")
 
-def visit(driver, website, config_name,index,config_number):
+# Visit the website and extract mutations using the injected extension
+def visit(driver, website, config_name, config_number):
     try:
-        # Visit the website
+        # Visit the target website
         driver.get(website)
         driver.switch_to.window(driver.window_handles[0])
 
-        time.sleep(8)  # Let extension initiate itself
+        time.sleep(8)  # Allow the extension to initialize itself
         driver.get(website)
         driver.switch_to.window(driver.window_handles[0])
+
+        driver.switch_to.window(driver.window_handles[0])
+
         time.sleep(8)
-        # Extract mutations
-        
+
+        # Extract mutation data from the extension
         res_list = driver.execute_script("return myMutations;")
         parsed_data = []
         for item in res_list:
             try:
-                parsed_json = json.loads(item)  # Parse each JSON object string
+                parsed_json = json.loads(item)  # Parse each mutation JSON object string
                 parsed_data.append(parsed_json)
             except json.JSONDecodeError as e:
                 print(f"Error decoding JSON object: {e}")
 
-        # Filter parsed data and generate signature
+        # Filter relevant mutation data
         filtered_data = []
         for entry in parsed_data:
-            if entry['type'] == 'childList' and ('added' in entry or 'removed' in entry) or not 'added' in entry and not 'removed' in entry:
+            if entry['type'] == 'childList' and ('added' in entry or 'removed' in entry):
                 filtered_data.append(entry)
             elif entry['type'] == 'attributes':
                 filtered_data.append(entry)
 
-        # Enumerate filtered data
+        # Enumerate the filtered data
         enumerated_result = [{"mutation": i + 1, **item} for i, item in enumerate(filtered_data)]
 
-        # Convert enumerated result into JSON format
+        # Convert the enumerated result into JSON format
         json_data = json.dumps(enumerated_result, indent=4)
 
         if not os.path.exists(signatures_path):
             os.makedirs(signatures_path)
 
-        file_path = os.path.join(signatures_path, f'signature{index}.json')
+        # Save the filtered data to a file, matching the input config index (e.g., config1 -> signature1.json)
+        output_file_name = f"signature{config_number}.json"
+        file_path = os.path.join(signatures_path, output_file_name)
 
-
-        # Write JSON data to a file
+        # Write JSON data to the output file
         with open(file_path, "w+") as f:
             f.write(json_data)
 
@@ -152,6 +168,7 @@ def visit(driver, website, config_name,index,config_number):
     except Exception as e:
         print(f"Error extracting mutations for {config_name}: {e}")
 
+# Main function to iterate through configurations, inject them, and extract signatures
 def main(config_folder, extension_path, website):
     # Chrome options setup
     options = Options()
@@ -163,24 +180,27 @@ def main(config_folder, extension_path, website):
     options.add_argument(f"--load-extension={extension_path}")
 
     try:
-        # Iterate through each file in the config_folder
+        # Iterate through each JSON configuration file in the config folder
         for index, filename in enumerate(os.listdir(config_folder)):
             if filename.endswith('.json'):
                 config_path = os.path.join(config_folder, filename)
                 match = re.search(r'config(\d+)\.json', filename)
-                config_number = match.group(1)
-                # Update extension for the current configuration
+                config_number = match.group(1)  # Extract the number from the config filename
+
+                # Update the extension with the current configuration
                 update_extension(config_path, extension_path)
+
+                # Initialize the Chrome WebDriver
                 driver = webdriver.Chrome(options=options)
 
-                # Visit website and extract signature
-                visit(driver, website, filename.split('.')[0],index,config_number)
+                # Visit the website and extract mutation signatures
+                visit(driver, website, filename.split('.')[0], config_number)
 
-                # Quit the driver
+                # Quit the driver to release resources
                 if 'driver' in locals():
                     driver.quit()
 
-                time.sleep(5)  # Adjust as needed between iterations
+                time.sleep(5)  # Adjust sleep time as needed
 
     except Exception as exc:
         print(f"An error occurred: {exc}")
@@ -189,6 +209,7 @@ def main(config_folder, extension_path, website):
         if 'driver' in locals():
             driver.quit()
 
+# Entry point for the script
 if __name__ == "__main__":
     # Parse command-line arguments
     parser = argparse.ArgumentParser(description="Extension option inject and signature extraction from honeypage.")
@@ -196,5 +217,5 @@ if __name__ == "__main__":
     parser.add_argument("extension_path", help="Path to extension directory")
     args = parser.parse_args()
 
-    # Call main function with command-line arguments
-    main(args.config_folder, args.extension_path,website)
+    # Call the main function with the provided arguments
+    main(args.config_folder, args.extension_path, website)
