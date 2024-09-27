@@ -125,7 +125,6 @@ Each script runs once to generate the extension signatures for simplicity and ve
 5. **Testing with given options:**
 You can directly test using the options provided in each extension folder <extension-name/configuration>:
  ```sh
-cd testing
 python crawler.py ../extensions/darkreader/configurations/ ../extensions/darkreader/eimadpbcbfnmbkopoojfekhnkhdbieeh/
 python crawler.py ../extensions/opendyslexic/configurations/ ../extensions/opendyslexic/cdnapgfjopgaggbmfgbiinmmbdcglnam/
 python crawler.py ../extensions/dyslexiafriendly/configurations/ ../extensions/dyslexiafriendly/miepjgfkkommhllbbjaedffcpkncboeo/
