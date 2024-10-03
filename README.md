@@ -51,10 +51,10 @@ The folder `testing` contains the main logic of the configuration testing. It ge
 
 1. **Install fuzzing and crawler requirements in the main directory. For consistency, we will enable a Python virtual environment and install the dependencies.:**
   ```sh
-     cd acsac_artifacts
-     python -m venv artifacts
-     source artifacts/bin/activate
-     pip install -r requirements.txt
+     cd <repo_directory>
+     python -m venv artifacts // initiate a virtual environment named artifacts
+     source artifacts/bin/activate //activate it
+     pip install -r requirements.txt //installation in the environment
   ```
   This will install Selenium and webcolors required for fuzzing and crawler script.
 
