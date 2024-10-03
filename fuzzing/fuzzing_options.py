@@ -58,11 +58,25 @@ def transform_hex_color(value):
     return list(transformations) if transformations else [value]
 
 def transform_font(value):
-    """Randomly change font family if it's in the predefined list of fonts."""
     transformations = set()
-    if isinstance(value, str) and value.lower() in alternative_fonts:
-        transformations.add(get_random_font())
+    
+    # Normalize the fonts for case-insensitive comparison
+    alternative_fonts_lower = {font.lower() for font in alternative_fonts}
+    
+    if isinstance(value, str) and value.strip().lower() in alternative_fonts_lower:
+        random_fonts = get_random_font()  # Get a list of random fonts
+        
+        # Ensure we got a valid list of fonts from get_random_font
+        if isinstance(random_fonts, list) and random_fonts:
+            # Iterate over the list of fonts and add each font to the set
+            for font in random_fonts:
+                if isinstance(font, str):  # Ensure each font is a valid string
+                    transformations.add(font)
+        else:
+            print(f"Warning: get_random_font() returned an invalid list: {random_fonts}")
+    
     return list(transformations) if transformations else [value]
+
 
 def transform_string(value):
     """Transform strings that represent boolean-like values."""
